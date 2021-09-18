@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="4" valign="middle" >链表</td>
+	    <td rowspan="5" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -39,6 +39,13 @@
         <td><a href="/链表篇/0206. 反转链表.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.md">链表：听说过两天反转链表又写不出来了？</a></td>
+	</tr>
+    <tr >
+	    <td>4</td>
+	    <td>02.06. 回文链表</td>
+        <td><a href="/链表篇/02.06. 回文链表.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典</td>
 	</tr>
 </table>
 

@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="2" valign="middle" >链表</td>
+	    <td rowspan="3" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -25,6 +25,13 @@
         <td><a href="/链表篇/02.01.移除重复节点.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>2</td>
+	    <td>LC707 设计链表</td>
+        <td><a href="/链表篇/0707.设计链表.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0707.%E8%AE%BE%E8%AE%A1%E9%93%BE%E8%A1%A8.md">听说这道题目把链表常见的五个操作都覆盖了？</a></td>
 	</tr>
 </table>
 

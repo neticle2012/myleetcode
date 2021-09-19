@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="5" valign="middle" >链表</td>
+	    <td rowspan="6" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -46,6 +46,13 @@
         <td><a href="/链表篇/02.06. 回文链表.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>5</td>
+	    <td>LC24 两两交换链表中的节点</td>
+        <td><a href="/链表篇/0024. 两两交换链表中的节点.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md">链表：两两交换链表中的节点</a></td>
 	</tr>
 </table>
 

@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="9" valign="middle" >链表</td>
+	    <td rowspan="10" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -74,6 +74,13 @@
         <td><a href="/链表篇/0142. 环形链表 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md">链表：环找到了，那入口呢？</a></td>
+	</tr>
+    <tr >
+	    <td>9</td>
+	    <td>02.03. 删除中间节点</td>
+        <td><a href="/链表篇/02.03. 删除中间节点.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典</td>
 	</tr>
 </table>
 

@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="8" valign="middle" >链表</td>
+	    <td rowspan="9" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -65,8 +65,15 @@
 	    <td>7</td>
 	    <td>02.07. 链表相交</td>
         <td><a href="/链表篇/02.07. 链表相交.md">Note</a></td>
-        <td>Medium</td>
+        <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E9%9D%A2%E8%AF%95%E9%A2%9802.07.%E9%93%BE%E8%A1%A8%E7%9B%B8%E4%BA%A4.md">链表：链表相交</a></td>
+	</tr>
+    <tr >
+	    <td>8</td>
+	    <td>LC142 环形链表 II</td>
+        <td><a href="/链表篇/0142. 环形链表 II.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.md">链表：环找到了，那入口呢？</a></td>
 	</tr>
 </table>
 

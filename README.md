@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="10" valign="middle" >链表</td>
+	    <td rowspan="11" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -80,6 +80,13 @@
 	    <td>02.03. 删除中间节点</td>
         <td><a href="/链表篇/02.03. 删除中间节点.md">Note</a></td>
         <td>Easy</td>
+    	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>10</td>
+	    <td>02.04. 分割链表</td>
+        <td><a href="/链表篇/02.04. 分割链表.md">Note</a></td>
+        <td>Medium</td>
     	<td>程序员面试金典</td>
 	</tr>
 </table>

@@ -97,12 +97,19 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="1" valign="middle" >数组</td>
+	    <td rowspan="2" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md">数组：每次遇到二分法，都是一看就会，一写就废</a></td>
+	</tr>
+    <tr >
+	    <td>1</td>
+	    <td>LC27 移除元素</td>
+        <td><a href="/数组篇/0027. 移除元素.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md">数组：就移除个元素很难么？</a></td>
 	</tr>
 </table>
 

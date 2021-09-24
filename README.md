@@ -97,7 +97,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="4" valign="middle" >数组</td>
+	    <td rowspan="5" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -124,6 +124,13 @@
         <td><a href="/数组篇/0209. 长度最小的子数组.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md">数组：滑动窗口拯救了你</a></td>
+	</tr>
+    <tr >
+	    <td>4</td>
+	    <td>10.05. 稀疏数组搜索</td>
+        <td><a href="/数组篇/10.05. 稀疏数组搜索.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典</td>
 	</tr>
 </table>
 

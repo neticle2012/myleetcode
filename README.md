@@ -97,40 +97,40 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="7" valign="middle" >数组</td>
+	    <td rowspan="8" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md">数组：每次遇到二分法，都是一看就会，一写就废</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0704.%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE.md">数组：每次遇到二分法，都是一看就会，一写就废</a> | 二分查找</td>
 	</tr>
     <tr >
 	    <td>1</td>
 	    <td>LC27 移除元素</td>
         <td><a href="/数组篇/0027. 移除元素.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md">数组：就移除个元素很难么？</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md">数组：就移除个元素很难么？</a> | 双快慢指针</td>
 	</tr>
     <tr >
 	    <td>2</td>
 	    <td>LC977 有序数组的平方</td>
         <td><a href="/数组篇/0977. 有序数组的平方.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md">数组：有序数组的平方，还有序么？</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0977.%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E5%B9%B3%E6%96%B9.md">数组：有序数组的平方，还有序么？</a> | 双指针</td>
 	</tr>
     <tr >
 	    <td>3</td>
 	    <td>LC209 长度最小的子数组</td>
         <td><a href="/数组篇/0209. 长度最小的子数组.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md">数组：滑动窗口拯救了你</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0209.%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.md">数组：滑动窗口拯救了你</a> | 滑动窗口</td>
 	</tr>
     <tr >
 	    <td>4</td>
 	    <td>10.05. 稀疏数组搜索</td>
         <td><a href="/数组篇/10.05. 稀疏数组搜索.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典</td>
+    	<td>程序员面试金典 | 二分查找</td>
 	</tr>
     <tr >
 	    <td>5</td>
@@ -144,7 +144,14 @@
 	    <td>08.03. 魔术索引</td>
         <td><a href="/数组篇/08.03. 魔术索引.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典</td>
+    	<td>程序员面试金典 | 二分查找 | 分治法</td>
+	</tr>
+    <tr >
+	    <td>7</td>
+	    <td>LC35 搜索插入位置</td>
+        <td><a href="/数组篇/0035. 搜索插入位置.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典 | 二分查找</td>
 	</tr>
 </table>
 

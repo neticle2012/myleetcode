@@ -97,7 +97,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="9" valign="middle" >数组</td>
+	    <td rowspan="10" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -137,7 +137,7 @@
 	    <td>LC59 螺旋矩阵II</td>
         <td><a href="/数组篇/0059. 螺旋矩阵 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0059.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II.md.md">数组：这个循环可以转懵很多人！</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0059.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5II.md">数组：这个循环可以转懵很多人！</a></td>
 	</tr>
     <tr >
 	    <td>6</td>
@@ -158,7 +158,14 @@
 	    <td>LC1365 有多少小于当前数字的数字</td>
         <td><a href="/数组篇/1365. 有多少小于当前数字的数字.md">Note</a></td>
         <td>Easy</td>
-    	<td>快速排序 | 哈希表</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1365.%E6%9C%89%E5%A4%9A%E5%B0%91%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E6%95%B0%E5%AD%97%E7%9A%84%E6%95%B0%E5%AD%97.md">1365.有多少小于当前数字的数字</a> | 快速排序 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>9</td>
+	    <td>LC941 有效的山脉数组</td>
+        <td><a href="/数组篇/0941. 有效的山脉数组.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0941.%E6%9C%89%E6%95%88%E7%9A%84%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84.md">941.有效的山脉数组 </a> | 双指针</td>
 	</tr>
 </table>
 

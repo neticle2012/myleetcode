@@ -97,7 +97,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="8" valign="middle" >数组</td>
+	    <td rowspan="9" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -152,6 +152,13 @@
         <td><a href="/数组篇/0035. 搜索插入位置.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典 | 二分查找</td>
+	</tr>
+    <tr >
+	    <td>8</td>
+	    <td>LC1365 有多少小于当前数字的数字</td>
+        <td><a href="/数组篇/1365. 有多少小于当前数字的数字.md">Note</a></td>
+        <td>Easy</td>
+    	<td>快速排序 | 哈希表</td>
 	</tr>
 </table>
 

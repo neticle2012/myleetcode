@@ -97,7 +97,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="11" valign="middle" >数组</td>
+	    <td rowspan="12" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -165,13 +165,21 @@
 	    <td>LC941 有效的山脉数组</td>
         <td><a href="/数组篇/0941. 有效的山脉数组.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0941.%E6%9C%89%E6%95%88%E7%9A%84%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84.md">941.有效的山脉数组 </a> | 双指针</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0941.%E6%9C%89%E6%95%88%E7%9A%84%E5%B1%B1%E8%84%89%E6%95%B0%E7%BB%84.md">941.有效的山脉数组</a> | 双指针</td>
 	</tr>
     <tr >
 	    <td>10</td>
 	    <td>LC283 移动零</td>
         <td><a href="/数组篇/0283. 移动零.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.md">283.移动零 </a> | 双快慢指针</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.md">283.移动零</a> | 双快慢指针</td>
+	</tr>
+    <tr >
+	    <td>11</td>
+	    <td>LC189 旋转数组</td>
+        <td><a href="/数组篇/0189. 旋转数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0189.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.md">189.旋转数组</a> | 字符串反转</td>
 	</tr>
 </table>
+

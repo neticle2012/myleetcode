@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="12" valign="middle" >链表</td>
+	    <td rowspan="13" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -45,7 +45,7 @@
 	    <td>02.06. 回文链表</td>
         <td><a href="/链表篇/02.06. 回文链表.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md">234.回文链表</a> | 程序员面试金典 | 双快慢指针</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md">234.回文链表</a> | 程序员面试金典 | 双快慢指针 | 数组</td>
 	</tr>
     <tr >
 	    <td>5</td>
@@ -95,6 +95,13 @@
         <td><a href="/链表篇/02.05. 链表求和.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>12</td>
+	    <td>LC143 重排链表</td>
+        <td><a href="/链表篇/0143.重排链表.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md">143.重排链表</a> | 双快慢指针 | 数组 | 双向队列</td>
 	</tr>
     <tr >
 	    <td rowspan="16" valign="middle" >数组</td>

@@ -45,14 +45,14 @@
 	    <td>02.06. 回文链表</td>
         <td><a href="/链表篇/02.06. 回文链表.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md">234.回文链表</a> | 程序员面试金典 | 双快慢指针</td>
 	</tr>
     <tr >
 	    <td>5</td>
 	    <td>LC24 两两交换链表中的节点</td>
         <td><a href="/链表篇/0024. 两两交换链表中的节点.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md">链表：两两交换链表中的节点</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md">链表：两两交换链表中的节点</a> | 双指针</td>
 	</tr>
     <tr >
 	    <td>6</td>

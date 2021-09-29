@@ -97,7 +97,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="15" valign="middle" >数组</td>
+	    <td rowspan="16" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -201,6 +201,13 @@
         <td><a href="/数组篇/0922. 按奇偶排序数组 II.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0922.%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84II.md">922.按奇偶排序数组II</a> | 双快慢指针</td>
+	</tr>
+    <tr >
+	    <td>15</td>
+	    <td>LC1207 独一无二的出现次数</td>
+        <td><a href="/数组篇/1207. 独一无二的出现次数.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1207.%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0.md">1207.独一无二的出现次数</a> | 哈希表 | TODO:学完哈希表之后再做一遍</td>
 	</tr>
 </table>
 

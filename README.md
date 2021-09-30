@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="14" valign="middle" >链表</td>
+	    <td rowspan="15" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -109,6 +109,13 @@
         <td><a href="/链表篇/0021. 合并两个有序链表.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/">剑指Offer25</a></td>
+	</tr>
+    <tr >
+	    <td>14</td>
+	    <td>LC138 复制带随机指针的链表</td>
+        <td><a href="/链表篇/0138. 复制带随机指针的链表.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/">剑指Offer35</a> | TODO:学完回溯算法之后再做一遍</td>
 	</tr>
     <tr >
 	    <td rowspan="16" valign="middle" >数组</td>

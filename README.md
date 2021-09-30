@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="13" valign="middle" >链表</td>
+	    <td rowspan="14" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -101,7 +101,14 @@
 	    <td>LC143 重排链表</td>
         <td><a href="/链表篇/0143.重排链表.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md">143.重排链表</a> | 双快慢指针 | 数组 | 双向队列</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0143.%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.md">143.重排链表</a> | 双快慢指针 | 数组 | 双向队列 | TODO:学完队列之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>13</td>
+	    <td>LC21 合并两个有序链表</td>
+        <td><a href="/链表篇/0021. 合并两个有序链表.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/">剑指Offer25</a></td>
 	</tr>
     <tr >
 	    <td rowspan="16" valign="middle" >数组</td>

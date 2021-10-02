@@ -237,5 +237,13 @@
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
 	</tr>
+    <tr >
+	    <td rowspan="1" valign="middle" >哈希表</td>
+	    <td>0</td>
+	    <td>LC242 有效的字母异位词</td>
+        <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md">哈希表：可以拿数组当哈希表来用，但哈希值不要太大</a></td>
+	</tr>
 </table>
 

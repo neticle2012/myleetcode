@@ -238,7 +238,7 @@
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="2" valign="middle" >哈希表</td>
+	    <td rowspan="3" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -251,6 +251,13 @@
         <td><a href="/哈希表篇/1002. 查找共用字符.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1002.%E6%9F%A5%E6%89%BE%E5%B8%B8%E7%94%A8%E5%AD%97%E7%AC%A6.md">哈希表：查找常用字符</a></td>
+	</tr>
+    <tr >
+	    <td>2</td>
+	    <td>LC349 两个数组的交集</td>
+        <td><a href="/哈希表篇/0349. 两个数组的交集.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0349.%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md">哈希表：哈希值太大了，还是得用set</a></td>
 	</tr>
 </table>
 

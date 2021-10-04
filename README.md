@@ -238,7 +238,7 @@
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="4" valign="middle" >哈希表</td>
+	    <td rowspan="5" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -265,6 +265,13 @@
         <td><a href="/哈希表篇/0202. 快乐数.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0202.%E5%BF%AB%E4%B9%90%E6%95%B0.md">哈希表：用set来判断快乐数</a> | 递归 | 双快慢指针</td>
+	</tr>
+    <tr >
+	    <td>4</td>
+	    <td>LC1 两数之和</td>
+        <td><a href="/哈希表篇/0001. 两数之和.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md">哈希表：map等候多时了</a></td>
 	</tr>
 </table>
 

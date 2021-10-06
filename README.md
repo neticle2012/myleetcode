@@ -238,7 +238,7 @@
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="7" valign="middle" >哈希表</td>
+	    <td rowspan="8" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -286,6 +286,13 @@
         <td><a href="/哈希表篇/0383. 赎金信.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0383.%E8%B5%8E%E9%87%91%E4%BF%A1.md">哈希表：这道题目我做过？</a></td>
+	</tr>
+    <tr >
+	    <td>7</td>
+	    <td>LC15 三数之和</td>
+        <td><a href="/哈希表篇/0015. 三数之和.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md">哈希表：解决了两数之和，那么能解决三数之和么？</a></td>
 	</tr>
 </table>
 

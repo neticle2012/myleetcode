@@ -238,7 +238,7 @@
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="9" valign="middle" >哈希表</td>
+	    <td rowspan="10" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -300,6 +300,13 @@
         <td><a href="/哈希表篇/0018. 四数之和.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0018.%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md">双指针法：一样的道理，能解决四数之和</a> | 双指针</td>
+	</tr>
+    <tr >
+	    <td>9</td>
+	    <td>LC205 同构字符串</td>
+        <td><a href="/哈希表篇/0205. 同构字符串.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md">205.同构字符串</a></td>
 	</tr>
 </table>
 

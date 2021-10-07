@@ -118,7 +118,7 @@
     	<td><a href="https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/">剑指Offer35</a> | TODO:学完回溯算法之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="17" valign="middle" >数组</td>
+	    <td rowspan="18" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -236,6 +236,13 @@
         <td><a href="/数组篇/03. 数组中重复的数字.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/solution/mian-shi-ti-03-shu-zu-zhong-zhong-fu-de-shu-zi-yua/">哈希表 / 原地交换，清晰图解</a> | 剑指offer | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>17</td>
+	    <td>01.08. 零矩阵</td>
+        <td><a href="/数组篇/01.08. 零矩阵.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
 	    <td rowspan="10" valign="middle" >哈希表</td>

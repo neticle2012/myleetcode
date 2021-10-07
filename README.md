@@ -245,7 +245,7 @@
     	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="10" valign="middle" >哈希表</td>
+	    <td rowspan="11" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -314,6 +314,13 @@
         <td><a href="/哈希表篇/0205. 同构字符串.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0205.%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md">205.同构字符串</a></td>
+	</tr>
+    <tr >
+	    <td>10</td>
+	    <td>17.04. 消失的数字</td>
+        <td><a href="/哈希表篇/17.04. 消失的数字.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典 | 异或</td>
 	</tr>
 </table>
 

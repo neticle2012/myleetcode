@@ -336,5 +336,13 @@
         <td>Medium</td>
     	<td>程序员面试金典 | 双指针</td>
 	</tr>
+    <tr >
+	    <td rowspan="1" valign="middle" >字符串</td>
+	    <td>0</td>
+	    <td>LC344 反转字符串</td>
+        <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md">字符串：这道题目，使用库函数一行代码搞定</a></td>
+	</tr>
 </table>
 

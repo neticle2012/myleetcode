@@ -228,7 +228,7 @@
 	    <td>LC1207 独一无二的出现次数</td>
         <td><a href="/数组篇/1207. 独一无二的出现次数.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1207.%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0.md">1207.独一无二的出现次数</a> | 哈希表 | TODO:学完哈希表之后再做一遍</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1207.%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E7%9A%84%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0.md">1207.独一无二的出现次数</a> | 哈希表</td>
 	</tr>
     <tr >
 	    <td>16</td>

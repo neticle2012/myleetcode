@@ -337,7 +337,7 @@
     	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
-	    <td rowspan="2" valign="middle" >字符串</td>
+	    <td rowspan="3" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -350,6 +350,13 @@
         <td><a href="/字符串篇/0541. 反转字符串 II.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0541.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2II.md">字符串：简单的反转还不够！</a></td>
+	</tr>
+    <tr >
+	    <td>2</td>
+	    <td>05. 替换空格</td>
+        <td><a href="/字符串篇/05. 替换空格.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%89%91%E6%8C%87Offer05.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md">字符串：替换空格</a> | 剑指offer | 双指针</td>
 	</tr>
 </table>
 

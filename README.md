@@ -337,7 +337,7 @@
     	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
-	    <td rowspan="4" valign="middle" >字符串</td>
+	    <td rowspan="5" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -364,6 +364,13 @@
         <td><a href="/字符串篇/0151. 翻转字符串里的单词.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md">字符串：花式反转还不够！</a> | 双向队列 | TODO:学完队列之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>4</td>
+	    <td>58 - II. 左旋转字符串</td>
+        <td><a href="/字符串篇/58 - II. 左旋转字符串.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%89%91%E6%8C%87Offer58-II.%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md">字符串：反转个字符串还有这个用处？</a> | 剑指offer</td>
 	</tr>
 </table>
 

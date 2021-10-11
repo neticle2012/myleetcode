@@ -337,7 +337,7 @@
     	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
-	    <td rowspan="3" valign="middle" >字符串</td>
+	    <td rowspan="4" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -357,6 +357,13 @@
         <td><a href="/字符串篇/05. 替换空格.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E5%89%91%E6%8C%87Offer05.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md">字符串：替换空格</a> | 剑指offer | 双指针</td>
+	</tr>
+    <tr >
+	    <td>3</td>
+	    <td>LC151 翻转字符串里的单词</td>
+        <td><a href="/字符串篇/0151. 翻转字符串里的单词.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md">字符串：花式反转还不够！</a> | 双向队列 | TODO:学完队列之后再做一遍</td>
 	</tr>
 </table>
 

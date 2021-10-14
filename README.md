@@ -245,7 +245,7 @@
     	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="16" valign="middle" >哈希表</td>
+	    <td rowspan="17" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -356,6 +356,13 @@
         <td><a href="/哈希表篇/16.15. 珠玑妙算.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>16</td>
+	    <td>LC169 多数元素</td>
+        <td><a href="/哈希表篇/0169. 多数元素.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/">剑指Offer39</a> | Boyer-Moore 投票算法</td>
 	</tr>
     <tr >
 	    <td rowspan="6" valign="middle" >字符串</td>

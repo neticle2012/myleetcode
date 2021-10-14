@@ -245,7 +245,7 @@
     	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="15" valign="middle" >哈希表</td>
+	    <td rowspan="16" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -349,6 +349,13 @@
         <td><a href="/哈希表篇/01.04. 回文排列.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典 | 位运算(异或)</td>
+	</tr>
+    <tr >
+	    <td>15</td>
+	    <td>16.15. 珠玑妙算</td>
+        <td><a href="/哈希表篇/16.15. 珠玑妙算.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典</td>
 	</tr>
     <tr >
 	    <td rowspan="6" valign="middle" >字符串</td>

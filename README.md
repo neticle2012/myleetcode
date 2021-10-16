@@ -245,7 +245,7 @@
     	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="18" valign="middle" >哈希表</td>
+	    <td rowspan="19" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -370,6 +370,13 @@
         <td><a href="/哈希表篇/50. 第一个只出现一次的字符.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指offer | 队列 | TODO:学完队列之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>18</td>
+	    <td>LC560 和为 K 的子数组</td>
+        <td><a href="/哈希表篇/0560. 和为 K 的子数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/QTMn0o/">剑指OfferII 010</a> | 前缀和</td>
 	</tr>
     <tr >
 	    <td rowspan="6" valign="middle" >字符串</td>

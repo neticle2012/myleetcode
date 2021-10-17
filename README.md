@@ -379,7 +379,7 @@
     	<td><a href="https://leetcode-cn.com/problems/QTMn0o/">剑指OfferII 010</a> | 前缀和</td>
 	</tr>
     <tr >
-	    <td rowspan="8" valign="middle" >字符串</td>
+	    <td rowspan="9" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -434,6 +434,13 @@
         <td><a href="/字符串篇/0459. 重复的子字符串.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0459.%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md">字符串：KMP算法还能干这个！</a> | KMP算法</td>
+	</tr>
+    <tr >
+	    <td>8</td>
+	    <td>01.06. 字符串压缩</td>
+        <td><a href="/字符串篇/01.06. 字符串压缩.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典</td>
 	</tr>
 </table>
 

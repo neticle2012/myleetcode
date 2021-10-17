@@ -379,7 +379,7 @@
     	<td><a href="https://leetcode-cn.com/problems/QTMn0o/">剑指OfferII 010</a> | 前缀和</td>
 	</tr>
     <tr >
-	    <td rowspan="6" valign="middle" >字符串</td>
+	    <td rowspan="7" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -420,6 +420,13 @@
         <td><a href="/字符串篇/01.03. URL化.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典 | 双指针</td>
+	</tr>
+    <tr >
+	    <td>6</td>
+	    <td>LC28 实现 strStr()</td>
+        <td><a href="/字符串篇/0028. 实现 strStr().md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0028.%E5%AE%9E%E7%8E%B0strStr.md">帮你把KMP算法学个通透</a> | KMP算法</td>
 	</tr>
 </table>
 

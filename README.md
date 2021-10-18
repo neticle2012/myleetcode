@@ -379,7 +379,7 @@
     	<td><a href="https://leetcode-cn.com/problems/QTMn0o/">剑指OfferII 010</a> | 前缀和</td>
 	</tr>
     <tr >
-	    <td rowspan="11" valign="middle" >字符串</td>
+	    <td rowspan="12" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -454,7 +454,14 @@
 	    <td>05.02. 二进制数转字符串</td>
         <td><a href="/字符串篇/05.02. 二进制数转字符串.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典</td>
+    	<td>程序员面试金典 | 位运算</td>
+	</tr>
+    <tr >
+	    <td>11</td>
+	    <td>10.02. 变位词组</td>
+        <td><a href="/字符串篇/10.02. 变位词组.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 哈希表 | 排序</td>
 	</tr>
 </table>
 

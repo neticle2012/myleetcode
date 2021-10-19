@@ -245,7 +245,7 @@
     	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="19" valign="middle" >哈希表</td>
+	    <td rowspan="20" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -377,6 +377,13 @@
         <td><a href="/哈希表篇/0560. 和为 K 的子数组.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/QTMn0o/">剑指OfferII 010</a> | 前缀和</td>
+	</tr>
+    <tr >
+	    <td>19</td>
+	    <td>16.02. 单词频率</td>
+        <td><a href="/哈希表篇/16.02. 单词频率.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 字典树 | TODO:学完树之后再做一遍</td>
 	</tr>
     <tr >
 	    <td rowspan="12" valign="middle" >字符串</td>

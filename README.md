@@ -386,7 +386,7 @@
     	<td>程序员面试金典 | 字典树 | TODO:学完树之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="14" valign="middle" >字符串</td>
+	    <td rowspan="15" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -483,6 +483,13 @@
         <td><a href="/字符串篇/16.06. 最小差.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 双指针</td>
+	</tr>
+    <tr >
+	    <td>14</td>
+	    <td>17.11. 单词距离</td>
+        <td><a href="/字符串篇/17.11. 单词距离.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 哈希表 | 双指针 | 双快慢指针</td>
 	</tr>
 </table>
 

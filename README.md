@@ -118,7 +118,7 @@
     	<td><a href="https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/">剑指Offer35</a> | TODO:学完回溯算法之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="18" valign="middle" >数组</td>
+	    <td rowspan="19" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -243,6 +243,13 @@
         <td><a href="/数组篇/01.08. 零矩阵.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>18</td>
+	    <td>16.06. 最小差</td>
+        <td><a href="/数组篇/16.06. 最小差.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >哈希表</td>
@@ -386,7 +393,7 @@
     	<td>程序员面试金典 | 字典树 | TODO:学完树之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="15" valign="middle" >字符串</td>
+	    <td rowspan="14" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -479,13 +486,6 @@
 	</tr>
     <tr >
 	    <td>13</td>
-	    <td>16.06. 最小差</td>
-        <td><a href="/字符串篇/16.06. 最小差.md">Note</a></td>
-        <td>Medium</td>
-    	<td>程序员面试金典 | 双指针</td>
-	</tr>
-    <tr >
-	    <td>14</td>
 	    <td>17.11. 单词距离</td>
         <td><a href="/字符串篇/17.11. 单词距离.md">Note</a></td>
         <td>Medium</td>

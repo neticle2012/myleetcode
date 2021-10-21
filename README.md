@@ -393,7 +393,7 @@
     	<td>程序员面试金典 | 字典树 | TODO:学完树之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="14" valign="middle" >字符串</td>
+	    <td rowspan="15" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -490,6 +490,13 @@
         <td><a href="/字符串篇/17.11. 单词距离.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 哈希表 | 双指针 | 双快慢指针</td>
+	</tr>
+    <tr >
+	    <td>14</td>
+	    <td>LC3 无重复字符的最长子串</td>
+        <td><a href="/字符串篇/0003. 无重复字符的最长子串.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/">剑指Offer48</a> | 滑动窗口 | 哈希表</td>
 	</tr>
 </table>
 

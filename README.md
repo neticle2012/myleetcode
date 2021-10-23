@@ -252,7 +252,7 @@
     	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
-	    <td rowspan="20" valign="middle" >哈希表</td>
+	    <td rowspan="21" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -391,6 +391,13 @@
         <td><a href="/哈希表篇/16.02. 单词频率.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 字典树 | TODO:学完树之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>20</td>
+	    <td>LC318 最大单词长度乘积</td>
+        <td><a href="/哈希表篇/0318. 最大单词长度乘积.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/aseY1I/">剑指OfferII 005</a> | 位运算</td>
 	</tr>
     <tr >
 	    <td rowspan="16" valign="middle" >字符串</td>

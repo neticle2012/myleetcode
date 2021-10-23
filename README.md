@@ -400,7 +400,7 @@
     	<td><a href="https://leetcode-cn.com/problems/aseY1I/">剑指OfferII 005</a> | 位运算</td>
 	</tr>
     <tr >
-	    <td rowspan="16" valign="middle" >字符串</td>
+	    <td rowspan="17" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -511,6 +511,13 @@
         <td><a href="/字符串篇/0008. 字符串转换整数 (atoi).md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/">剑指Offer67</a> | TODO:学完Java正则表达式再做一遍</td>
+	</tr>
+    <tr >
+	    <td>16</td>
+	    <td>LC567 字符串的排列</td>
+        <td><a href="/字符串篇/0567. 字符串的排列.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
 </table>
 

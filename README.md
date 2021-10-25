@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="15" valign="middle" >链表</td>
+	    <td rowspan="16" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -116,6 +116,13 @@
         <td><a href="/链表篇/0138. 复制带随机指针的链表.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/">剑指Offer35</a> | TODO:学完回溯算法之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>15</td>
+	    <td>06. 从尾到头打印链表</td>
+        <td><a href="/链表篇/06. 从尾到头打印链表.md">Note</a></td>
+        <td>Easy</td>
+    	<td>剑指Offer | 双指针 | TODO:学完栈之后再做一遍</td>
 	</tr>
     <tr >
 	    <td rowspan="19" valign="middle" >数组</td>
@@ -405,7 +412,7 @@
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md">字符串：这道题目，使用库函数一行代码搞定</a> | 双指针</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0344.%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md">字符串：这道题目，使用库函数一行代码搞定</a> | 双指针 | 使用异或完成两数交换</td>
 	</tr>
     <tr >
 	    <td>1</td>

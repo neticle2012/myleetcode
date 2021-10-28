@@ -125,7 +125,7 @@
     	<td>剑指Offer | 双指针 | TODO:学完栈之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="19" valign="middle" >数组</td>
+	    <td rowspan="20" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -257,6 +257,13 @@
         <td><a href="/数组篇/16.06. 最小差.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 双指针</td>
+	</tr>
+    <tr >
+	    <td>19</td>
+	    <td>LC48 旋转图像</td>
+        <td><a href="/数组篇/0048. 旋转图像.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/rotate-matrix-lcci/">程序员面试金典01.07</a></td>
 	</tr>
     <tr >
 	    <td rowspan="21" valign="middle" >哈希表</td>

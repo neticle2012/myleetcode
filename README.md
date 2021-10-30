@@ -289,7 +289,7 @@
     <tr >
 	    <td>22</td>
 	    <td>LC240 搜索二维矩阵 II</td>
-        <td><a href="/数组篇/0209. 长度最小的子数组.md">Note</a></td>
+        <td><a href="/数组篇/0240. 搜索二维矩阵 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/">剑指Offer04</a> | 二分查找 | TODO:学完树再做一遍</td>
 	</tr>
@@ -569,4 +569,3 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
 </table>
-

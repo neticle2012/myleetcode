@@ -280,7 +280,7 @@
     	<td>程序员面试金典 | 哈希表 | 排序</td>
 	</tr>
     <tr >
-	    <td rowspan="21" valign="middle" >哈希表</td>
+	    <td rowspan="22" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -426,6 +426,13 @@
         <td><a href="/哈希表篇/0318. 最大单词长度乘积.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/aseY1I/">剑指OfferII 005</a> | 位运算</td>
+	</tr>
+    <tr >
+	    <td>21</td>
+	    <td>17.05. 字母与数字</td>
+        <td><a href="/哈希表篇/17.05. 字母与数字.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 前缀和</td>
 	</tr>
     <tr >
 	    <td rowspan="17" valign="middle" >字符串</td>

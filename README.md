@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="16" valign="middle" >链表</td>
+	    <td rowspan="17" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -123,6 +123,13 @@
         <td><a href="/链表篇/06. 从尾到头打印链表.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指Offer | 双指针 | TODO:学完栈之后再做一遍</td>
+	</tr>
+    <tr >
+	    <td>16</td>
+	    <td>02.02. 返回倒数第 k 个节点</td>
+        <td><a href="/链表篇/02.02. 返回倒数第 k 个节点.md">Note</a></td>
+        <td>Easy</td>
+    	<td>双快慢指针</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >数组</td>

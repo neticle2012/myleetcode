@@ -125,7 +125,7 @@
     	<td>剑指Offer | 双指针 | TODO:学完栈之后再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="21" valign="middle" >数组</td>
+	    <td rowspan="22" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -271,6 +271,13 @@
         <td><a href="/数组篇/10.03. 搜索旋转数组.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 二分查找</td>
+	</tr>
+    <tr >
+	    <td>21</td>
+	    <td>16.10. 生存人数</td>
+        <td><a href="/数组篇/16.10. 生存人数.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 哈希表 | 排序</td>
 	</tr>
     <tr >
 	    <td rowspan="21" valign="middle" >哈希表</td>

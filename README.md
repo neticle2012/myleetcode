@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="22" valign="middle" >数组</td>
+	    <td rowspan="23" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -285,6 +285,13 @@
         <td><a href="/数组篇/16.10. 生存人数.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 哈希表 | 排序</td>
+	</tr>
+    <tr >
+	    <td>22</td>
+	    <td>LC240 搜索二维矩阵 II</td>
+        <td><a href="/数组篇/0209. 长度最小的子数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/">剑指Offer04</a> | 二分查找 | TODO:学完树再做一遍</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>

@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="23" valign="middle" >数组</td>
+	    <td rowspan="24" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -292,6 +292,13 @@
         <td><a href="/数组篇/0240. 搜索二维矩阵 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/">剑指Offer04</a> | 二分查找 | TODO:学完树再做一遍</td>
+	</tr>
+    <tr >
+	    <td>23</td>
+	    <td>LC54 螺旋矩阵</td>
+        <td><a href="/数组篇/0054. 螺旋矩阵.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/">剑指Offer29</a></td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>
@@ -569,3 +576,4 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
 </table>
+

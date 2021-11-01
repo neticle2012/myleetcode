@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="24" valign="middle" >数组</td>
+	    <td rowspan="25" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -299,6 +299,13 @@
         <td><a href="/数组篇/0054. 螺旋矩阵.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/">剑指Offer29</a></td>
+	</tr>
+    <tr >
+	    <td>24</td>
+	    <td>21. 调整数组顺序使奇数位于偶数前面</td>
+        <td><a href="/数组篇/0021. 调整数组顺序使奇数位于偶数前面.md">Note</a></td>
+        <td>Easy</td>
+    	<td>剑指Offer | 双快慢指针</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>

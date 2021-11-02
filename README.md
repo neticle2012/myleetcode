@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="25" valign="middle" >数组</td>
+	    <td rowspan="26" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -306,6 +306,13 @@
         <td><a href="/数组篇/0021. 调整数组顺序使奇数位于偶数前面.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指Offer | 双快慢指针</td>
+	</tr>
+    <tr >
+	    <td>25</td>
+	    <td>56 - I. 数组中数字出现的次数</td>
+        <td><a href="/数组篇/56 - I. 数组中数字出现的次数.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指Offer | 哈希表 | 位运算(异或)</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>

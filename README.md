@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="27" valign="middle" >数组</td>
+	    <td rowspan="28" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -320,6 +320,13 @@
         <td><a href="/数组篇/17. 打印从1到最大的n位数.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指Offer | 大数问题 | 递归 | <a href="https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/solution/jian-zhi-offer-17-da-yin-cong-1dao-zui-d-ngm4/.md">打印从1到最大的n位数，普通解法 + 大数全排列解法</a> | TODO:学完深度优先搜索再看一遍</td>
+	</tr>
+    <tr >
+	    <td>27</td>
+	    <td>57. 和为s的两个数字</td>
+        <td><a href="/数组篇/57. 和为s的两个数字.md">Note</a></td>
+        <td>Easy</td>
+    	<td>剑指Offer | 双指针</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>

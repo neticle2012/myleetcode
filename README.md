@@ -132,7 +132,7 @@
     	<td>双快慢指针</td>
 	</tr>
     <tr >
-	    <td rowspan="28" valign="middle" >数组</td>
+	    <td rowspan="29" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -327,6 +327,13 @@
         <td><a href="/数组篇/57. 和为s的两个数字.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指Offer | 双指针</td>
+	</tr>
+    <tr >
+	    <td>28</td>
+	    <td>66. 构建乘积数组</td>
+        <td><a href="/数组篇/66. 构建乘积数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指Offer | 前缀和</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >哈希表</td>

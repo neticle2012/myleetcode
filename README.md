@@ -638,5 +638,13 @@
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
+    <tr >
+	    <td rowspan="1" valign="middle" >栈与队列</td>
+	    <td>0</td>
+	    <td>LC232 用栈实现队列</td>
+        <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0232.%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.md">栈与队列：我用栈来实现队列怎么样？</a></td>
+	</tr>
 </table>
 

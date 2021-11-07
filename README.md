@@ -639,7 +639,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="4" valign="middle" >栈与队列</td>
+	    <td rowspan="5" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -666,6 +666,13 @@
         <td><a href="/栈与队列篇/1047. 删除字符串中的所有相邻重复项.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1047.%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md">栈与队列：匹配问题都是栈的强项</a> | 字符串 | 双指针</td>
+	</tr>
+    <tr >
+	    <td>4</td>
+	    <td>LC150 逆波兰表达式求值</td>
+        <td><a href="/栈与队列篇/0150. 逆波兰表达式求值.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md">栈与队列：有没有想过计算机是如何处理表达式的？</a></td>
 	</tr>
 </table>
 

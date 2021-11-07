@@ -639,7 +639,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="2" valign="middle" >栈与队列</td>
+	    <td rowspan="3" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -652,6 +652,13 @@
         <td><a href="/栈与队列篇/0225. 用队列实现栈.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0225.%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.md">栈与队列：用队列实现栈还有点别扭</a></td>
+	</tr>
+    <tr >
+	    <td>2</td>
+	    <td>LC20 有效的括号</td>
+        <td><a href="/栈与队列篇/0020. 有效的括号.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0020.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md">栈与队列：系统中处处都是栈的应用</a></td>
 	</tr>
 </table>
 

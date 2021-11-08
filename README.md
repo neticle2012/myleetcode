@@ -639,7 +639,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="5" valign="middle" >栈与队列</td>
+	    <td rowspan="6" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -673,6 +673,13 @@
         <td><a href="/栈与队列篇/0150. 逆波兰表达式求值.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0150.%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md">栈与队列：有没有想过计算机是如何处理表达式的？</a></td>
+	</tr>
+    <tr >
+	    <td>5</td>
+	    <td>LC239 滑动窗口最大值</td>
+        <td><a href="/栈与队列篇/0239. 滑动窗口最大值.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.md">栈与队列：滑动窗口里求最大值引出一个重要数据结构</a></td>
 	</tr>
 </table>
 

@@ -639,7 +639,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="9" valign="middle" >栈与队列</td>
+	    <td rowspan="10" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -701,6 +701,13 @@
         <td><a href="/栈与队列篇/16.26. 计算器.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 逆波兰表达式</td>
+	</tr>
+    <tr >
+	    <td>9</td>
+	    <td>03.05. 栈排序</td>
+        <td><a href="/栈与队列篇/03.05. 栈排序.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 惰性更新</td>
 	</tr>
 </table>
 

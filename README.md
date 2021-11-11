@@ -639,7 +639,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="12" valign="middle" >栈与队列</td>
+	    <td rowspan="13" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -722,6 +722,13 @@
         <td><a href="/栈与队列篇/03.06. 动物收容所.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>12</td>
+	    <td>LC735 行星碰撞</td>
+        <td><a href="/栈与队列篇/0735. 行星碰撞.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/XagZNi/">剑指offerII 037</a></td>
 	</tr>
 </table>
 

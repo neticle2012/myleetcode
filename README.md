@@ -646,7 +646,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="13" valign="middle" >栈与队列</td>
+	    <td rowspan="14" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -736,6 +736,13 @@
         <td><a href="/栈与队列篇/0735. 行星碰撞.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/XagZNi/">剑指offerII 037</a></td>
+	</tr>
+    <tr >
+	    <td>13</td>
+	    <td>LC739 每日温度</td>
+        <td><a href="/栈与队列篇/0739. 每日温度.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/iIQa4I/">剑指offerII 038</a> | 单调栈</td>
 	</tr>
 </table>
 

@@ -371,7 +371,7 @@
     	<td>程序员面试金典 | 位运算</td>
 	</tr>
     <tr >
-	    <td rowspan="22" valign="middle" >哈希表</td>
+	    <td rowspan="23" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -526,6 +526,13 @@
     	<td>程序员面试金典 | 前缀和</td>
 	</tr>
     <tr >
+	    <td>22</td>
+	    <td>LC525 连续数组</td>
+        <td><a href="/哈希表篇/0525. 连续数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/A1NYOS/">剑指OfferII 011</a> | 前缀和</td>
+	</tr>
+    <tr >
 	    <td rowspan="17" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
@@ -646,7 +653,7 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="14" valign="middle" >栈与队列</td>
+	    <td rowspan="15" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -743,6 +750,13 @@
         <td><a href="/栈与队列篇/0739. 每日温度.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/iIQa4I/">剑指offerII 038</a> | 单调栈</td>
+	</tr>
+    <tr >
+	    <td>14</td>
+	    <td>LC84 柱状图中最大的矩形</td>
+        <td><a href="/栈与队列篇/0084. 柱状图中最大的矩形.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://leetcode-cn.com/problems/0ynMMM/">剑指offerII 039</a> | 单调栈</td>
 	</tr>
 </table>
 

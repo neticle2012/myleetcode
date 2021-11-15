@@ -533,7 +533,7 @@
     	<td><a href="https://leetcode-cn.com/problems/A1NYOS/">剑指OfferII 011</a> | 前缀和</td>
 	</tr>
     <tr >
-	    <td rowspan="17" valign="middle" >字符串</td>
+	    <td rowspan="18" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -653,6 +653,13 @@
     	<td><a href="https://leetcode-cn.com/problems/MPnaiL/">剑指OfferII 014</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
+	    <td>17</td>
+	    <td>LC438 找到字符串中所有字母异位词</td>
+        <td><a href="/字符串篇/0438. 找到字符串中所有字母异位词.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/VabMRr/">剑指OfferII 015</a> | 滑动窗口 | 哈希表</td>
+	</tr>
+    <tr >
 	    <td rowspan="15" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
@@ -759,3 +766,4 @@
     	<td><a href="https://leetcode-cn.com/problems/0ynMMM/">剑指offerII 039</a> | 单调栈</td>
 	</tr>
 </table>
+

@@ -667,7 +667,7 @@
     	<td><a href="https://leetcode-cn.com/problems/VabMRr/">剑指OfferII 015</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="15" valign="middle" >栈与队列</td>
+	    <td rowspan="17" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -771,6 +771,20 @@
         <td><a href="/栈与队列篇/0084. 柱状图中最大的矩形.md">Note</a></td>
         <td>Hard</td>
     	<td><a href="https://leetcode-cn.com/problems/0ynMMM/">剑指offerII 039</a> | 单调栈</td>
+	</tr>
+    <tr >
+	    <td>15</td>
+	    <td>17.21. 直方图的水量</td>
+        <td><a href="/栈与队列篇/17.21. 直方图的水量.md">Note</a></td>
+        <td>Hard</td>
+    	<td>程序员面试金典 | 单调栈</td>
+	</tr>
+    <tr >
+	    <td>16</td>
+	    <td>041. 滑动窗口的平均值</td>
+        <td><a href="/栈与队列篇/041. 滑动窗口的平均值.md">Note</a></td>
+        <td>Easy</td>
+    	<td>剑指offerII</td>
 	</tr>
 </table>
 

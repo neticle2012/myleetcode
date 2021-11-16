@@ -667,7 +667,7 @@
     	<td><a href="https://leetcode-cn.com/problems/VabMRr/">剑指OfferII 015</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="17" valign="middle" >栈与队列</td>
+	    <td rowspan="18" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -785,6 +785,13 @@
         <td><a href="/栈与队列篇/041. 滑动窗口的平均值.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指offerII</td>
+	</tr>
+    <tr >
+	    <td>17</td>
+	    <td>LC933 最近的请求次数</td>
+        <td><a href="/栈与队列篇/0933. 最近的请求次数.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/H8086Q/">剑指offerII 042</a></td>
 	</tr>
 </table>
 

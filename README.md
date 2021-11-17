@@ -371,7 +371,7 @@
     	<td>程序员面试金典 | 位运算</td>
 	</tr>
     <tr >
-	    <td rowspan="24" valign="middle" >哈希表</td>
+	    <td rowspan="25" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -538,6 +538,13 @@
         <td><a href="/哈希表篇/0128. 最长连续序列.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/WhsWhI/">剑指OfferII 119</a></td>
+	</tr>
+    <tr >
+	    <td>24</td>
+	    <td>LC1122 数组的相对排序</td>
+        <td><a href="/哈希表篇/1122. 数组的相对排序.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/0H97ZC/">剑指OfferII 075</a> | 定制排序 | 计数排序</td>
 	</tr>
     <tr >
 	    <td rowspan="18" valign="middle" >字符串</td>

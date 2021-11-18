@@ -153,7 +153,7 @@
     	<td><a href="https://leetcode-cn.com/problems/7WHec2/">剑指OfferII 077</a> | 八大排序(归并) | TODO:学完归并排序再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="31" valign="middle" >数组</td>
+	    <td rowspan="32" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -369,6 +369,13 @@
         <td><a href="/数组篇/05.08. 绘制直线.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 位运算</td>
+	</tr>
+    <tr >
+	    <td>31</td>
+	    <td>10.01. 合并排序的数组</td>
+        <td><a href="/数组篇/10.01. 合并排序的数组.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典 | 双指针</td>
 	</tr>
     <tr >
 	    <td rowspan="26" valign="middle" >哈希表</td>

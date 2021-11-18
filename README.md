@@ -371,12 +371,12 @@
     	<td>程序员面试金典 | 位运算</td>
 	</tr>
     <tr >
-	    <td rowspan="25" valign="middle" >哈希表</td>
+	    <td rowspan="26" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md">哈希表：可以拿数组当哈希表来用，但哈希值不要太大</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0242.%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md">哈希表：可以拿数组当哈希表来用，但哈希值不要太大</a> | <a href="https://leetcode-cn.com/problems/dKk3P7/">剑指OfferII 032</a></td>
 	</tr>
     <tr >
 	    <td>1</td>
@@ -545,6 +545,13 @@
         <td><a href="/哈希表篇/1122. 数组的相对排序.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/0H97ZC/">剑指OfferII 075</a> | 定制排序 | 计数排序</td>
+	</tr>
+    <tr >
+	    <td>25</td>
+	    <td>LC380 O(1) 时间插入、删除和获取随机元素</td>
+        <td><a href="/哈希表篇/0380. O(1) 时间插入、删除和获取随机元素.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/FortPu/">剑指OfferII 030</a></td>
 	</tr>
     <tr >
 	    <td rowspan="18" valign="middle" >字符串</td>

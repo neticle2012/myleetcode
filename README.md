@@ -12,7 +12,7 @@
         <th>备注</th>
 	</tr >
 	<tr >
-	    <td rowspan="20" valign="middle" >链表</td>
+	    <td rowspan="21" valign="middle" >链表</td>
 	    <td>0</td>
 	    <td>LC203 移除链表元素</td>
         <td><a href="/链表篇/0203.移除链表元素.md">Note</a></td>
@@ -151,6 +151,13 @@
         <td><a href="/链表篇/0148. 排序链表.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/7WHec2/">剑指OfferII 077</a> | 八大排序(归并) | TODO:学完归并排序再做一遍</td>
+	</tr>
+    <tr >
+	    <td>20</td>
+	    <td>LC146 LRU 缓存机制</td>
+        <td><a href="/链表篇/0146. LRU 缓存机制.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
 	    <td rowspan="33" valign="middle" >数组</td>
@@ -822,4 +829,3 @@
     	<td><a href="https://leetcode-cn.com/problems/H8086Q/">剑指offerII 042</a></td>
 	</tr>
 </table>
-

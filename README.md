@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="33" valign="middle" >数组</td>
+	    <td rowspan="34" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -390,6 +390,13 @@
         <td><a href="/数组篇/17.19. 消失的两个数字.md">Note</a></td>
         <td>Hard</td>
     	<td>程序员面试金典 | 哈希表 | 位运算(异或)</td>
+	</tr>
+    <tr >
+	    <td>33</td>
+	    <td>56 - II. 数组中数字出现的次数 II</td>
+        <td><a href="/数组篇/56 - II. 数组中数字出现的次数 II.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指offer | 哈希表 | 位运算</td>
 	</tr>
     <tr >
 	    <td rowspan="26" valign="middle" >哈希表</td>
@@ -847,7 +854,7 @@
 	    <td>59 - II. 队列的最大值</td>
         <td><a href="/栈与队列篇/59 - II. 队列的最大值.md">Note</a></td>
         <td>Medium</td>
-    	<td>剑指offerII | 单调队列</td>
+    	<td>剑指offer | 单调队列</td>
 	</tr>
 </table>
 

@@ -702,7 +702,7 @@
     	<td><a href="https://leetcode-cn.com/problems/VabMRr/">剑指OfferII 015</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="20" valign="middle" >栈与队列</td>
+	    <td rowspan="21" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -841,6 +841,13 @@
         <td><a href="/栈与队列篇/16.16. 部分排序.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 单调栈</td>
+	</tr>
+    <tr >
+	    <td>20</td>
+	    <td>59 - II. 队列的最大值</td>
+        <td><a href="/栈与队列篇/59 - II. 队列的最大值.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指offerII | 单调队列</td>
 	</tr>
 </table>
 

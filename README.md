@@ -319,7 +319,7 @@
 	    <td>LC240 搜索二维矩阵 II</td>
         <td><a href="/数组篇/0240. 搜索二维矩阵 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/">剑指Offer04</a> | 二分查找 | TODO:学完树再做一遍</td>
+    	<td><a href="https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/">剑指Offer04</a> | <a href="https://leetcode-cn.com/problems/sorted-matrix-search-lcci/">程序员面试金典10.09</a> | 二分查找 | TODO:学完树再做一遍</td>
 	</tr>
     <tr >
 	    <td>23</td>
@@ -709,7 +709,7 @@
     	<td><a href="https://leetcode-cn.com/problems/VabMRr/">剑指OfferII 015</a> | 滑动窗口 | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="21" valign="middle" >栈与队列</td>
+	    <td rowspan="22" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -855,6 +855,13 @@
         <td><a href="/栈与队列篇/59 - II. 队列的最大值.md">Note</a></td>
         <td>Medium</td>
     	<td>剑指offer | 单调队列</td>
+	</tr>
+    <tr >
+	    <td>21</td>
+	    <td>LC347 前 K 个高频元素</td>
+        <td><a href="/栈与队列篇/0347. 前 K 个高频元素.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
 	</tr>
 </table>
 

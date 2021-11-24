@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="35" valign="middle" >数组</td>
+	    <td rowspan="36" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -404,6 +404,13 @@
         <td><a href="/数组篇/16.11. 跳水板.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>35</td>
+	    <td>17.26. 稀疏相似度</td>
+        <td><a href="/数组篇/17.26. 稀疏相似度.md">Note</a></td>
+        <td>Hard</td>
+    	<td>程序员面试金典 | 哈希表</td>
 	</tr>
     <tr >
 	    <td rowspan="26" valign="middle" >哈希表</td>

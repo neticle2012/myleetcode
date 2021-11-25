@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="36" valign="middle" >数组</td>
+	    <td rowspan="37" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -411,6 +411,13 @@
         <td><a href="/数组篇/17.26. 稀疏相似度.md">Note</a></td>
         <td>Hard</td>
     	<td>程序员面试金典 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>36</td>
+	    <td>LC167 两数之和 II - 输入有序数组</td>
+        <td><a href="/数组篇/0167. 两数之和 II - 输入有序数组.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/kLl5u1/">剑指OfferII 006</a> | 双指针 | 二分查找</td>
 	</tr>
     <tr >
 	    <td rowspan="26" valign="middle" >哈希表</td>

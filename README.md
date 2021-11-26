@@ -420,7 +420,7 @@
     	<td><a href="https://leetcode-cn.com/problems/kLl5u1/">剑指OfferII 006</a> | 双指针 | 二分查找</td>
 	</tr>
     <tr >
-	    <td rowspan="26" valign="middle" >哈希表</td>
+	    <td rowspan="27" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -603,6 +603,13 @@
     	<td><a href="https://leetcode-cn.com/problems/FortPu/">剑指OfferII 030</a></td>
 	</tr>
     <tr >
+	    <td>26</td>
+	    <td>LC953 验证外星语词典</td>
+        <td><a href="/哈希表篇/0953. 验证外星语词典.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/lwyVBB/">剑指OfferII 034</a></td>
+	</tr>
+    <tr >
 	    <td rowspan="18" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
@@ -685,7 +692,7 @@
 	    <td>10.02. 变位词组</td>
         <td><a href="/字符串篇/10.02. 变位词组.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典 | 哈希表 | 排序</td>
+    	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/sfvd7V/">剑指OfferII 033</a> | <a href="https://leetcode-cn.com/problems/group-anagrams/">LC49</a> | 哈希表 | 排序</td>
 	</tr>
     <tr >
 	    <td>12</td>

@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="37" valign="middle" >数组</td>
+	    <td rowspan="38" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -418,6 +418,13 @@
         <td><a href="/数组篇/0167. 两数之和 II - 输入有序数组.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/kLl5u1/">剑指OfferII 006</a> | 双指针 | 二分查找</td>
+	</tr>
+    <tr >
+	    <td>37</td>
+	    <td>LC713 乘积小于K的子数组</td>
+        <td><a href="/数组篇/0713. 乘积小于K的子数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/ZVAVXX/">剑指OfferII 009</a> | 滑动窗口</td>
 	</tr>
     <tr >
 	    <td rowspan="27" valign="middle" >哈希表</td>

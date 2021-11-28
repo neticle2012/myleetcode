@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="39" valign="middle" >数组</td>
+	    <td rowspan="40" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -214,7 +214,7 @@
 	    <td>LC35 搜索插入位置</td>
         <td><a href="/数组篇/0035. 搜索插入位置.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典 | 二分查找</td>
+    	<td><a href="https://leetcode-cn.com/problems/N6YdxV/">剑指offerII 068</a> | 二分查找</td>
 	</tr>
     <tr >
 	    <td>8</td>
@@ -432,6 +432,13 @@
         <td><a href="/数组篇/0304. 二维区域和检索 - 矩阵不可变.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/O4NDxx/">剑指OfferII 013</a> | 前缀和</td>
+	</tr>
+    <tr >
+	    <td>39</td>
+	    <td>LC852 山脉数组的峰顶索引</td>
+        <td><a href="/数组篇/0852. 山脉数组的峰顶索引.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/B1IidL/">剑指OfferII 069</a> | 双指针 | 二分查找</td>
 	</tr>
     <tr >
 	    <td rowspan="27" valign="middle" >哈希表</td>

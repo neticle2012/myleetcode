@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="40" valign="middle" >数组</td>
+	    <td rowspan="41" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -439,6 +439,13 @@
         <td><a href="/数组篇/0852. 山脉数组的峰顶索引.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/B1IidL/">剑指OfferII 069</a> | 双指针 | 二分查找</td>
+	</tr>
+    <tr >
+	    <td>40</td>
+	    <td>LC540 有序数组中的单一元素</td>
+        <td><a href="/数组篇/0540. 有序数组中的单一元素.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/skFtm2/">剑指OfferII 070</a> | 位运算(异或) | 二分查找</td>
 	</tr>
     <tr >
 	    <td rowspan="27" valign="middle" >哈希表</td>

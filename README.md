@@ -638,7 +638,7 @@
     	<td><a href="https://leetcode-cn.com/problems/lwyVBB/">剑指OfferII 034</a></td>
 	</tr>
     <tr >
-	    <td rowspan="19" valign="middle" >字符串</td>
+	    <td rowspan="20" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -770,6 +770,13 @@
         <td><a href="/字符串篇/0539. 最小时间差.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/569nqc/">剑指OfferII 035</a></td>
+	</tr>
+    <tr >
+	    <td>19</td>
+	    <td>LC67 二进制求和</td>
+        <td><a href="/字符串篇/0067. 二进制求和.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/JFETK5/">剑指OfferII 002</a></td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >栈与队列</td>

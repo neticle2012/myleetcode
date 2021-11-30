@@ -638,7 +638,7 @@
     	<td><a href="https://leetcode-cn.com/problems/lwyVBB/">剑指OfferII 034</a></td>
 	</tr>
     <tr >
-	    <td rowspan="21" valign="middle" >字符串</td>
+	    <td rowspan="22" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -784,6 +784,13 @@
         <td><a href="/字符串篇/0076. 最小覆盖子串.md">Note</a></td>
         <td>Hard</td>
     	<td><a href="https://leetcode-cn.com/problems/M1oyTv/">剑指OfferII 017</a> | 滑动窗口 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>21</td>
+	    <td>LC125 验证回文串</td>
+        <td><a href="/字符串篇/0125. 验证回文串.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/XltzEq/">剑指OfferII 018</a> | 双指针</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >栈与队列</td>

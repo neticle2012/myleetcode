@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="41" valign="middle" >数组</td>
+	    <td rowspan="42" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -305,7 +305,7 @@
 	    <td>10.03. 搜索旋转数组</td>
         <td><a href="/数组篇/10.03. 搜索旋转数组.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典 | 二分查找</td>
+    	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/">剑指offer11</a> | <a href="https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/">LC154</a> | 二分查找</td>
 	</tr>
     <tr >
 	    <td>21</td>
@@ -446,6 +446,13 @@
         <td><a href="/数组篇/0540. 有序数组中的单一元素.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/skFtm2/">剑指OfferII 070</a> | 位运算(异或) | 二分查找</td>
+	</tr>
+    <tr >
+	    <td>41</td>
+	    <td>LC69 Sqrt(x)</td>
+        <td><a href="/数组篇/0069. Sqrt(x).md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/jJ0w9p/">剑指OfferII 072</a> | 二分查找 | 牛顿迭代法</td>
 	</tr>
     <tr >
 	    <td rowspan="27" valign="middle" >哈希表</td>
@@ -664,7 +671,7 @@
 	    <td>LC151 翻转字符串里的单词</td>
         <td><a href="/字符串篇/0151. 翻转字符串里的单词.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md">字符串：花式反转还不够！</a> | 双向队列 | TODO:学完队列之后再做一遍</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0151.%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md">字符串：花式反转还不够！</a> | <a href="https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/">剑指offer58-I</a> | 双向队列 | TODO:学完队列之后再做一遍</td>
 	</tr>
     <tr >
 	    <td>4</td>
@@ -948,4 +955,3 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
 	</tr>
 </table>
-

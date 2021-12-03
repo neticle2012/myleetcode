@@ -652,7 +652,7 @@
     	<td><a href="https://leetcode-cn.com/problems/lwyVBB/">剑指OfferII 034</a></td>
 	</tr>
     <tr >
-	    <td rowspan="22" valign="middle" >字符串</td>
+	    <td rowspan="23" valign="middle" >字符串</td>
 	    <td>0</td>
 	    <td>LC344 反转字符串</td>
         <td><a href="/字符串篇/0344. 反转字符串.md">Note</a></td>
@@ -805,6 +805,13 @@
         <td><a href="/字符串篇/0125. 验证回文串.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/XltzEq/">剑指OfferII 018</a> | 双指针</td>
+	</tr>
+    <tr >
+	    <td>22</td>
+	    <td>LC273 整数转换英文表示</td>
+        <td><a href="/字符串篇/0273. 整数转换英文表示.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://leetcode-cn.com/problems/english-int-lcci/">程序员面试金典16.08</a> | 递归</td>
 	</tr>
     <tr >
 	    <td rowspan="22" valign="middle" >栈与队列</td>

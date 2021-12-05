@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="44" valign="middle" >数组</td>
+	    <td rowspan="43" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -449,20 +449,13 @@
 	</tr>
     <tr >
 	    <td>41</td>
-	    <td>LC69 Sqrt(x)</td>
-        <td><a href="/数组篇/0069. Sqrt(x).md">Note</a></td>
-        <td>Easy</td>
-    	<td><a href="https://leetcode-cn.com/problems/jJ0w9p/">剑指OfferII 072</a> | 二分查找 | 牛顿迭代法</td>
-	</tr>
-    <tr >
-	    <td>42</td>
 	    <td>LC528 按权重随机选择</td>
         <td><a href="/数组篇/0528. 按权重随机选择.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/cuyjEf/">剑指OfferII 071</a> | 二分查找 | 前缀和</td>
 	</tr>
     <tr >
-	    <td>43</td>
+	    <td>42</td>
 	    <td>LC56 合并区间</td>
         <td><a href="/数组篇/0056. 合并区间.md">Note</a></td>
         <td>Medium</td>
@@ -974,6 +967,14 @@
         <td><a href="/栈与队列篇/0347. 前 K 个高频元素.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
+	</tr>
+    <tr >
+	    <td rowspan="1" valign="middle" >其他</td>
+	    <td>0</td>
+	    <td>LC69 Sqrt(x)</td>
+        <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/jJ0w9p/">剑指OfferII 072</a> | 二分查找 | 牛顿迭代法</td>
 	</tr>
 </table>
 

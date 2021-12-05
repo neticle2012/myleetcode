@@ -969,12 +969,19 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="1" valign="middle" >其他</td>
+	    <td rowspan="2" valign="middle" >其他</td>
 	    <td>0</td>
 	    <td>LC69 Sqrt(x)</td>
         <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/jJ0w9p/">剑指OfferII 072</a> | 二分查找 | 牛顿迭代法</td>
+	</tr>
+    <tr >
+	    <td>1</td>
+	    <td>05.01. 插入</td>
+        <td><a href="/其他/05.01. 插入.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典 | 位运算</td>
 	</tr>
 </table>
 

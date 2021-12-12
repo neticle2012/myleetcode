@@ -160,7 +160,7 @@
     	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
 	</tr>
     <tr >
-	    <td rowspan="43" valign="middle" >数组</td>
+	    <td rowspan="44" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -460,6 +460,13 @@
         <td><a href="/数组篇/0056. 合并区间.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/SsGoHC/">剑指OfferII 074</a> | 定制排序</td>
+	</tr>
+    <tr >
+	    <td>43</td>
+	    <td>16.04. 井字游戏</td>
+        <td><a href="/数组篇/16.04. 井字游戏.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典</td>
 	</tr>
     <tr >
 	    <td rowspan="27" valign="middle" >哈希表</td>

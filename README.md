@@ -469,7 +469,7 @@
     	<td>程序员面试金典</td>
 	</tr>
     <tr >
-	    <td rowspan="27" valign="middle" >哈希表</td>
+	    <td rowspan="28" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -657,6 +657,13 @@
         <td><a href="/哈希表篇/0953. 验证外星语词典.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/lwyVBB/">剑指OfferII 034</a></td>
+	</tr>
+    <tr >
+	    <td>27</td>
+	    <td>16.20. T9键盘</td>
+        <td><a href="/哈希表篇/16.20. T9键盘.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典</td>
 	</tr>
     <tr >
 	    <td rowspan="23" valign="middle" >字符串</td>

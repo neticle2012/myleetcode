@@ -157,10 +157,10 @@
 	    <td>LC146 LRU 缓存机制</td>
         <td><a href="/链表篇/0146. LRU 缓存机制.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表</td>
+        <td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表 | 源码:<code>LinkedHashMap</code></td>
 	</tr>
     <tr >
-	    <td rowspan="44" valign="middle" >数组</td>
+	    <td rowspan="45" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -467,6 +467,13 @@
         <td><a href="/数组篇/16.04. 井字游戏.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>44</td>
+	    <td>57 - II. 和为s的连续正数序列</td>
+        <td><a href="/数组篇/57 - II. 和为s的连续正数序列.md">Note</a></td>
+        <td>Easy</td>
+    	<td>剑指offer | 滑动窗口</td>
 	</tr>
     <tr >
 	    <td rowspan="28" valign="middle" >哈希表</td>
@@ -1051,7 +1058,7 @@
 	    <td>17.01. 不用加号的加法</td>
         <td><a href="/其他/17.01. 不用加号的加法.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典 | 位运算</td>
+    	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/">剑指Offer65</a> | 位运算</td>
 	</tr>
     <tr >
 	    <td>10</td>
@@ -1072,7 +1079,7 @@
 	    <td>LC191 位1的个数</td>
         <td><a href="/其他/0191. 位1的个数.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/">剑指Offer15</a> | 位运算(统计二进制位1的个数)</td>
+        <td><a href="https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/">剑指Offer15</a> | 位运算(统计二进制位1的个数) | 源码:<code>Integer.bitCount()</code></td>
 	</tr>
     <tr >
 	    <td>13</td>

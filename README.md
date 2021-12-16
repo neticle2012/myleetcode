@@ -990,7 +990,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="14" valign="middle" >其他</td>
+	    <td rowspan="15" valign="middle" >其他</td>
 	    <td>0</td>
 	    <td>LC69 Sqrt(x)</td>
         <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
@@ -1087,6 +1087,13 @@
         <td><a href="/其他/0050. Pow(x, n).md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/">剑指Offer16</a> | 递归</td>
+	</tr>
+    <tr >
+	    <td>14</td>
+	    <td>64. 求1+2+…+n</td>
+        <td><a href="/其他/64. 求1+2+…+n.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指offer | 递归</td>
 	</tr>
 </table>
 

@@ -1098,7 +1098,7 @@
     <tr >
 	    <td>15</td>
 	    <td>62. 圆圈中最后剩下的数字</td>
-        <td><a href="/其他/0050. Pow(x, n).md">Note</a></td>
+        <td><a href="/其他/62. 圆圈中最后剩下的数字.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指offer | <a href="https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/solution/huan-ge-jiao-du-ju-li-jie-jue-yue-se-fu-huan-by-as/">换个角度举例解决约瑟夫环</a></td>
 	</tr>

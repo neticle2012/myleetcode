@@ -160,7 +160,7 @@
         <td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表 | 源码:<code>LinkedHashMap</code></td>
 	</tr>
     <tr >
-	    <td rowspan="45" valign="middle" >数组</td>
+	    <td rowspan="46" valign="middle" >数组</td>
 	    <td>0</td>
 	    <td>LC704 二分查找</td>
         <td><a href="/数组篇/0704. 二分查找.md">Note</a></td>
@@ -474,6 +474,13 @@
         <td><a href="/数组篇/57 - II. 和为s的连续正数序列.md">Note</a></td>
         <td>Easy</td>
     	<td>剑指offer | 滑动窗口</td>
+	</tr>
+    <tr >
+	    <td>45</td>
+	    <td>LC875 爱吃香蕉的珂珂</td>
+        <td><a href="/数组篇/0875. 爱吃香蕉的珂珂.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/nZZqjQ/">剑指OfferII 073</a> | 二分查找</td>
 	</tr>
     <tr >
 	    <td rowspan="28" valign="middle" >哈希表</td>

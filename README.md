@@ -684,7 +684,7 @@
 	    <td>16.22. 兰顿蚂蚁</td>
         <td><a href="/哈希表篇/16.22. 兰顿蚂蚁.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典</td>
+    	<td>程序员面试金典 | 重写<code>equals</code>和<code>hashCode</code></td>
 	</tr>
     <tr >
 	    <td rowspan="23" valign="middle" >字符串</td>
@@ -1086,7 +1086,7 @@
 	    <td>16.14. 最佳直线</td>
         <td><a href="/其他/16.14. 最佳直线.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典 | 哈希表 | 数学题 | TODO:有时间再去学习下民间解法</td>
+        <td>程序员面试金典 | 哈希表(重写<code>equals</code>和<code>hashCode</code>) | 数学题 | TODO:有时间再去学习下民间解法</td>
 	</tr>
     <tr >
 	    <td>12</td>

@@ -483,7 +483,7 @@
     	<td><a href="https://leetcode-cn.com/problems/nZZqjQ/">剑指OfferII 073</a> | 二分查找</td>
 	</tr>
     <tr >
-	    <td rowspan="28" valign="middle" >哈希表</td>
+	    <td rowspan="29" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -676,6 +676,13 @@
 	    <td>27</td>
 	    <td>16.20. T9键盘</td>
         <td><a href="/哈希表篇/16.20. T9键盘.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典</td>
+	</tr>
+    <tr >
+	    <td>28</td>
+	    <td>16.22. 兰顿蚂蚁</td>
+        <td><a href="/哈希表篇/16.22. 兰顿蚂蚁.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典</td>
 	</tr>

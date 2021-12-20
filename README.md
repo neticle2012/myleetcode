@@ -483,7 +483,7 @@
     	<td><a href="https://leetcode-cn.com/problems/nZZqjQ/">剑指OfferII 073</a> | 二分查找</td>
 	</tr>
     <tr >
-	    <td rowspan="29" valign="middle" >哈希表</td>
+	    <td rowspan="30" valign="middle" >哈希表</td>
 	    <td>0</td>
 	    <td>LC242 有效的字母异位词</td>
         <td><a href="/哈希表篇/0242. 有效的字母异位词.md">Note</a></td>
@@ -685,6 +685,13 @@
         <td><a href="/哈希表篇/16.22. 兰顿蚂蚁.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 重写<code>equals</code>和<code>hashCode</code></td>
+	</tr>
+    <tr >
+	    <td>29</td>
+	    <td>17.18. 最短超串</td>
+        <td><a href="/哈希表篇/17.18. 最短超串.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 滑动窗口</td>
 	</tr>
     <tr >
 	    <td rowspan="23" valign="middle" >字符串</td>

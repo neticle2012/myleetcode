@@ -1011,7 +1011,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="18" valign="middle" >其他</td>
+	    <td rowspan="19" valign="middle" >其他</td>
 	    <td>0</td>
 	    <td>LC69 Sqrt(x)</td>
         <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
@@ -1136,6 +1136,13 @@
         <td><a href="/其他/08.06. 汉诺塔问题.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典 | 递归</td>
+	</tr>
+    <tr >
+	    <td>18</td>
+	    <td>LC400 第 N 位数字</td>
+        <td><a href="/其他/0400. 第 N 位数字.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/">剑指Offer44</a></td>
 	</tr>
 </table>
 

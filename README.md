@@ -1008,7 +1008,7 @@
 	    <td>LC347 前 K 个高频元素</td>
         <td><a href="/栈与队列篇/0347. 前 K 个高频元素.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | TODO:学完堆排序再做一遍</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | 堆(优先级队列) | 源码:<code>PriorityQueue</code></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

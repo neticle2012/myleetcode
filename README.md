@@ -856,7 +856,7 @@
     	<td><a href="https://leetcode-cn.com/problems/english-int-lcci/">程序员面试金典16.08</a> | 递归</td>
 	</tr>
     <tr >
-	    <td rowspan="22" valign="middle" >栈与队列</td>
+	    <td rowspan="23" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -1008,7 +1008,14 @@
 	    <td>LC347 前 K 个高频元素</td>
         <td><a href="/栈与队列篇/0347. 前 K 个高频元素.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | 堆(优先级队列) | 源码:<code>PriorityQueue</code></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | <a href="https://leetcode-cn.com/problems/g5c51o/">剑指OfferII 060</a> | 哈希表 | 堆(优先级队列) | 源码:<code>PriorityQueue</code></td>
+	</tr>
+    <tr >
+	    <td>22</td>
+	    <td>17.14. 最小K个数</td>
+        <td><a href="/栈与队列篇/17.14. 最小K个数.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/">剑指Offer40</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

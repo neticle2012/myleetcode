@@ -1021,7 +1021,7 @@
 	    <td>23</td>
 	    <td>17.20. 连续中值</td>
         <td><a href="/栈与队列篇/17.20. 连续中值.md">Note</a></td>
-        <td>Medium</td>
+        <td>Hard</td>
     	<td>程序员面试金典 | 堆(优先级队列)</td>
 	</tr>
     <tr >

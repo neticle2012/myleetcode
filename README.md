@@ -856,7 +856,7 @@
     	<td><a href="https://leetcode-cn.com/problems/english-int-lcci/">程序员面试金典16.08</a> | 递归</td>
 	</tr>
     <tr >
-	    <td rowspan="23" valign="middle" >栈与队列</td>
+	    <td rowspan="24" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -1016,6 +1016,13 @@
         <td><a href="/栈与队列篇/17.14. 最小K个数.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/">剑指Offer40</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
+	</tr>
+    <tr >
+	    <td>23</td>
+	    <td>17.20. 连续中值</td>
+        <td><a href="/栈与队列篇/17.20. 连续中值.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 堆(优先级队列)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -157,7 +157,7 @@
 	    <td>LC146 LRU 缓存机制</td>
         <td><a href="/链表篇/0146. LRU 缓存机制.md">Note</a></td>
         <td>Medium</td>
-        <td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表 | 源码:<code>LinkedHashMap</code></td>
+        <td><a href="https://leetcode-cn.com/problems/OrIXps/">剑指OfferII 031</a> | 哈希表 | 源码分析:<code>LinkedHashMap</code></td>
 	</tr>
     <tr >
 	    <td rowspan="46" valign="middle" >数组</td>
@@ -1008,7 +1008,7 @@
 	    <td>LC347 前 K 个高频元素</td>
         <td><a href="/栈与队列篇/0347. 前 K 个高频元素.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | <a href="https://leetcode-cn.com/problems/g5c51o/">剑指OfferII 060</a> | 哈希表 | 堆(优先级队列) | 源码:<code>PriorityQueue</code></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.md">栈与队列：求前 K 个高频元素和队列有啥关系？</a> | <a href="https://leetcode-cn.com/problems/g5c51o/">剑指OfferII 060</a> | 哈希表 | 堆(优先级队列) | 源码分析:<code>PriorityQueue</code></td>
 	</tr>
     <tr >
 	    <td>22</td>
@@ -1121,7 +1121,7 @@
 	    <td>LC191 位1的个数</td>
         <td><a href="/其他/0191. 位1的个数.md">Note</a></td>
         <td>Easy</td>
-        <td><a href="https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/">剑指Offer15</a> | 位运算(统计二进制位1的个数) | 源码:<code>Integer.bitCount()</code></td>
+        <td><a href="https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/">剑指Offer15</a> | 位运算(统计二进制位1的个数) | 源码分析:<code>Integer.bitCount()</code></td>
 	</tr>
     <tr >
 	    <td>13</td>

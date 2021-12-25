@@ -856,7 +856,7 @@
     	<td><a href="https://leetcode-cn.com/problems/english-int-lcci/">程序员面试金典16.08</a> | 递归</td>
 	</tr>
     <tr >
-	    <td rowspan="24" valign="middle" >栈与队列</td>
+	    <td rowspan="25" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -1022,7 +1022,14 @@
 	    <td>17.20. 连续中值</td>
         <td><a href="/栈与队列篇/17.20. 连续中值.md">Note</a></td>
         <td>Hard</td>
-    	<td>程序员面试金典 | 堆(优先级队列)</td>
+    	<td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/">剑指Offer41</a> | <a href="https://leetcode-cn.com/problems/find-median-from-data-stream/">LC295</a> | 堆(优先级队列)</td>
+	</tr>
+    <tr >
+	    <td>24</td>
+	    <td>LC703 数据流中的第 K 大元素</td>
+        <td><a href="/栈与队列篇/0703. 数据流中的第 K 大元素.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/jBjn9C/">剑指OfferII 059</a> | 堆(优先级队列)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

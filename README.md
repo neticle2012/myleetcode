@@ -856,7 +856,7 @@
     	<td><a href="https://leetcode-cn.com/problems/english-int-lcci/">程序员面试金典16.08</a> | 递归</td>
 	</tr>
     <tr >
-	    <td rowspan="25" valign="middle" >栈与队列</td>
+	    <td rowspan="26" valign="middle" >栈与队列</td>
 	    <td>0</td>
 	    <td>LC232 用栈实现队列</td>
         <td><a href="/栈与队列篇/0232. 用栈实现队列.md">Note</a></td>
@@ -1030,6 +1030,13 @@
         <td><a href="/栈与队列篇/0703. 数据流中的第 K 大元素.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/jBjn9C/">剑指OfferII 059</a> | 堆(优先级队列)</td>
+	</tr>
+    <tr >
+	    <td>25</td>
+	    <td>LC373 查找和最小的K对数字</td>
+        <td><a href="/栈与队列篇/0373. 查找和最小的K对数字.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://leetcode-cn.com/problems/qn8gGX/">剑指OfferII 061</a> | 堆(优先级队列)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

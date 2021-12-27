@@ -162,7 +162,7 @@
     <tr >
 	    <td>21</td>
 	    <td>LC23 合并K个升序链表</td>
-        <td><a href="/链表篇/0021. 合并两个有序链表.md">Note</a></td>
+        <td><a href="/链表篇/0023. 合并K个升序链表.md">Note</a></td>
         <td>Hard</td>
         <td><a href="https://leetcode-cn.com/problems/vvXgSW/">剑指OfferII 078</a> | 归并排序 | 堆(优先队列)</td>
 	</tr>

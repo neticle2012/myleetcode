@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="1" valign="middle" >二叉树</td>
+	    <td rowspan="2" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1061,10 +1061,17 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%80%92%E5%BD%92%E9%81%8D%E5%8E%86.md">二叉树：一入递归深似海，从此offer是路人</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E8%BF%AD%E4%BB%A3%E9%81%8D%E5%8E%86.md">二叉树：听说递归能做的，栈也能做！</a> | 递归 | 栈</td>
 	</tr>
     <tr >
+	    <td>1</td>
+	    <td>LC94 二叉树的中序遍历</td>
+        <td><a href="/二叉树篇/0094. 二叉树的中序遍历.md">Note</a></td>
+        <td>Medium</td>
+    	<td>递归 | 栈</td>
+	</tr>
+    <tr >
 	    <td rowspan="20" valign="middle" >其他</td>
 	    <td>0</td>
-	    <td>LC144 二叉树的前序遍历</td>
-        <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
+	    <td>LC69 Sqrt(x)</td>
+        <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://leetcode-cn.com/problems/jJ0w9p/">剑指OfferII 072</a> | 二分查找 | 牛顿迭代法</td>
 	</tr>

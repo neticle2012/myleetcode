@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="5" valign="middle" >二叉树</td>
+	    <td rowspan="6" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1080,14 +1080,21 @@
         <td><a href="/二叉树篇/0102. 二叉树的层序遍历.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md">二叉树：层序遍历登场！</a> | <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/die-dai-di-gui-duo-tu-yan-shi-102er-cha-shu-de-cen/">
-迭代+递归 多图演示 102.二叉树的层次遍历</a> | 队列 | 递归</td>
+迭代+递归 多图演示 102.二叉树的层次遍历</a> | 队列(广度优先搜索) | 递归(深度优先搜索)</td>
 	</tr>
     <tr >
 	    <td>4</td>
 	    <td>LC107 二叉树的层序遍历 II</td>
         <td><a href="/二叉树篇/0107. 二叉树的层序遍历 II.md">Note</a></td>
         <td>Medium</td>
-    	<td>队列</td>
+    	<td>队列(广度优先搜索)</td>
+	</tr>
+    <tr >
+	    <td>5</td>
+	    <td>LC199 二叉树的右视图</td>
+        <td><a href="/二叉树篇/0199. 二叉树的右视图.md">Note</a></td>
+        <td>Medium</td>
+    	<td>队列(广度优先搜索) | 递归(深度优先搜索)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

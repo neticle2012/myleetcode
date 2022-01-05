@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="11" valign="middle" >二叉树</td>
+	    <td rowspan="12" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1130,6 +1130,13 @@
         <td><a href="/二叉树篇/0117. 填充每个节点的下一个右侧节点指针 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/solution/bfsjie-jue-zui-hao-de-ji-bai-liao-100de-yong-hu-by/">BFS解决（最好的击败了100%的用户）</a> | 层序遍历</td>
+	</tr>
+    <tr >
+	    <td>11</td>
+	    <td>LC104 二叉树的最大深度</td>
+        <td><a href="/二叉树篇/0104. 二叉树的最大深度.md">Note</a></td>
+        <td>Medium</td>
+    	<td>层序遍历</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

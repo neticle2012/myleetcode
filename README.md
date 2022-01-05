@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="12" valign="middle" >二叉树</td>
+	    <td rowspan="13" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1135,7 +1135,14 @@
 	    <td>11</td>
 	    <td>LC104 二叉树的最大深度</td>
         <td><a href="/二叉树篇/0104. 二叉树的最大深度.md">Note</a></td>
-        <td>Medium</td>
+        <td>Easy</td>
+    	<td>层序遍历</td>
+	</tr>
+    <tr >
+	    <td>12</td>
+	    <td>LC111 二叉树的最小深度</td>
+        <td><a href="/二叉树篇/0111. 二叉树的最小深度.md">Note</a></td>
+        <td>Easy</td>
     	<td>层序遍历</td>
 	</tr>
     <tr >

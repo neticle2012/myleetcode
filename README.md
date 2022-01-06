@@ -1150,7 +1150,7 @@
 	    <td>LC226 翻转二叉树</td>
         <td><a href="/二叉树篇/0226. 翻转二叉树.md">Note</a></td>
         <td>Easy</td>
-    	<td>广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：你真的会翻转二叉树么？</a> | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

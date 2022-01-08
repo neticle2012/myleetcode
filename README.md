@@ -1143,7 +1143,7 @@
 	    <td>LC111 二叉树的最小深度</td>
         <td><a href="/二叉树篇/0111. 二叉树的最小深度.md">Note</a></td>
         <td>Easy</td>
-    	<td>广度优先遍历(层序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0111.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E6%B7%B1%E5%BA%A6.md">二叉树：看看这些树的最小深度</a> | 广度优先遍历(层序遍历) | 深度优先遍历(后序遍历)</td>
 	</tr>
     <tr >
 	    <td>13</td>

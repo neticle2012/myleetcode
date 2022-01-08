@@ -1136,7 +1136,7 @@
 	    <td>LC104 二叉树的最大深度</td>
         <td><a href="/二叉树篇/0104. 二叉树的最大深度.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md.md">二叉树：看看这些树的最大深度</a> | 广度优先遍历(层序遍历) | 深度优先遍历(后序遍历) | 深度优先遍历(前序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md">二叉树：看看这些树的最大深度</a> | 广度优先遍历(层序遍历) | 深度优先遍历(后序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>12</td>

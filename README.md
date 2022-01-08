@@ -1080,70 +1080,70 @@
         <td><a href="/二叉树篇/0102. 二叉树的层序遍历.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md">二叉树：层序遍历登场！</a> | <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/die-dai-di-gui-duo-tu-yan-shi-102er-cha-shu-de-cen/">
-迭代+递归 多图演示 102.二叉树的层次遍历</a> | 队列(广度优先搜索) | 递归(深度优先搜索)</td>
+迭代+递归 多图演示 102.二叉树的层次遍历</a> | 队列 | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>4</td>
 	    <td>LC107 二叉树的层序遍历 II</td>
         <td><a href="/二叉树篇/0107. 二叉树的层序遍历 II.md">Note</a></td>
         <td>Medium</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>5</td>
 	    <td>LC199 二叉树的右视图</td>
         <td><a href="/二叉树篇/0199. 二叉树的右视图.md">Note</a></td>
         <td>Medium</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>6</td>
 	    <td>LC637 二叉树的层平均值</td>
         <td><a href="/二叉树篇/0637. 二叉树的层平均值.md">Note</a></td>
         <td>Easy</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>7</td>
 	    <td>LC429 N 叉树的层序遍历</td>
         <td><a href="/二叉树篇/0429. N 叉树的层序遍历.md">Note</a></td>
         <td>Medium</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>8</td>
 	    <td>LC515 在每个树行中找最大值</td>
         <td><a href="/二叉树篇/0515. 在每个树行中找最大值.md">Note</a></td>
         <td>Medium</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>9</td>
 	    <td>LC116 填充每个节点的下一个右侧节点指针</td>
         <td><a href="/二叉树篇/0116. 填充每个节点的下一个右侧节点指针.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/solution/dong-hua-yan-shi-san-chong-shi-xian-116-tian-chong/">动画演示+三种实现 116. 填充每个节点的下一个右侧节点指针</a> | 层序遍历</td>
+    	<td><a href="https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/solution/dong-hua-yan-shi-san-chong-shi-xian-116-tian-chong/">动画演示+三种实现 116. 填充每个节点的下一个右侧节点指针</a> | 广度优先遍历(层序遍历) | 深度优先遍历</td>
 	</tr>
     <tr >
 	    <td>10</td>
 	    <td>LC117 填充每个节点的下一个右侧节点指针 II</td>
         <td><a href="/二叉树篇/0117. 填充每个节点的下一个右侧节点指针 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/solution/bfsjie-jue-zui-hao-de-ji-bai-liao-100de-yong-hu-by/">BFS解决（最好的击败了100%的用户）</a> | 层序遍历</td>
+    	<td><a href="https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/solution/bfsjie-jue-zui-hao-de-ji-bai-liao-100de-yong-hu-by/">BFS解决（最好的击败了100%的用户）</a> | 广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>11</td>
 	    <td>LC104 二叉树的最大深度</td>
         <td><a href="/二叉树篇/0104. 二叉树的最大深度.md">Note</a></td>
         <td>Easy</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历) | 深度优先遍历(后序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>12</td>
 	    <td>LC111 二叉树的最小深度</td>
         <td><a href="/二叉树篇/0111. 二叉树的最小深度.md">Note</a></td>
         <td>Easy</td>
-    	<td>层序遍历</td>
+    	<td>广度优先遍历(层序遍历)</td>
 	</tr>
     <tr >
 	    <td>13</td>

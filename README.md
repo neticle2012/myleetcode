@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="20" valign="middle" >二叉树</td>
+	    <td rowspan="21" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1193,6 +1193,13 @@
         <td><a href="/二叉树篇/0110. 平衡二叉树.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我平衡么？</a> | 平衡二叉树 | 深度优先遍历(后序遍历)</td>
+	</tr>
+    <tr >
+	    <td>20</td>
+	    <td>LC589. N 叉树的前序遍历</td>
+        <td><a href="/二叉树篇/0589. N 叉树的前序遍历.md">Note</a></td>
+        <td>Easy</td>
+    	<td>递归 | 栈</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

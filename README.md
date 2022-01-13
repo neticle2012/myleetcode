@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="29" valign="middle" >二叉树</td>
+	    <td rowspan="30" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1255,7 +1255,14 @@
 	    <td>LC105 从前序与中序遍历序列构造二叉树</td>
         <td><a href="/二叉树篇/0105. 从前序与中序遍历序列构造二叉树.md">Note</a></td>
         <td>Medium</td>
-    	<td>分治法 | 哈希表</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0654.%E6%9C%80%E5%A4%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：构造一棵最大的二叉树</a> | 分治法 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>29</td>
+	    <td>LC654 最大二叉树</td>
+        <td><a href="/二叉树篇/0654. 最大二叉树.md">Note</a></td>
+        <td>Medium</td>
+    	<td>分治法 | 单调栈</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

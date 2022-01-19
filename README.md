@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="37" valign="middle" >二叉树</td>
+	    <td rowspan="38" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1312,6 +1312,13 @@
         <td><a href="/二叉树篇/0235. 二叉搜索树的最近公共祖先.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：搜索树的公共祖先问题</a> | 二叉搜索树</td>
+	</tr>
+    <tr >
+	    <td>37</td>
+	    <td>LC701 二叉搜索树中的插入操作</td>
+        <td><a href="/二叉树篇/0701. 二叉搜索树中的插入操作.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0701.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E6%8F%92%E5%85%A5%E6%93%8D%E4%BD%9C.md">二叉树：搜索树中的插入操作</a> | 二叉搜索树</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

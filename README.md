@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="39" valign="middle" >二叉树</td>
+	    <td rowspan="40" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1326,6 +1326,13 @@
         <td><a href="/二叉树篇/0450. 删除二叉搜索树中的节点.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0450.%E5%88%A0%E9%99%A4%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md">二叉树：搜索树中的删除操作</a> | 二叉搜索树</td>
+	</tr>
+    <tr >
+	    <td>39</td>
+	    <td>LC669 修剪二叉搜索树</td>
+        <td><a href="/二叉树篇/0669. 修剪二叉搜索树.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0669.%E4%BF%AE%E5%89%AA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">二叉树：修剪一棵搜索树</a> | 二叉搜索树 | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="42" valign="middle" >二叉树</td>
+	    <td rowspan="43" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1339,7 +1339,7 @@
 	    <td>LC108 将有序数组转换为二叉搜索树</td>
         <td><a href="/二叉树篇/0108. 将有序数组转换为二叉搜索树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">二叉树：构造一棵搜索树</a> | 二叉搜索树 | 分治法</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">二叉树：构造一棵搜索树</a> | <a href="https://leetcode-cn.com/problems/minimum-height-tree-lcci/">程序员面试金典04.02</a> | 二叉搜索树 | 分治法</td>
 	</tr>
     <tr >
 	    <td>41</td>
@@ -1347,6 +1347,13 @@
         <td><a href="/二叉树篇/0538. 把二叉搜索树转换为累加树.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.md">二叉树：搜索树转成累加树</a> | 二叉搜索树 | 深度优先遍历(反中序遍历)</td>
+	</tr>
+    <tr >
+	    <td>42</td>
+	    <td>04.03. 特定深度节点链表</td>
+        <td><a href="/二叉树篇/04.03. 特定深度节点链表.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

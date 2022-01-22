@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="43" valign="middle" >二叉树</td>
+	    <td rowspan="44" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1171,7 +1171,7 @@
 	    <td>LC572 另一棵树的子树</td>
         <td><a href="/二叉树篇/0572. 另一棵树的子树.md">Note</a></td>
         <td>Easy</td>
-    	<td>递归(深度优先搜索) | 深度优先遍历(前序遍历) | KMP算法</td>
+    	<td><a href="https://leetcode-cn.com/problems/check-subtree-lcci/">程序员面试金典04.10</a> | 递归(深度优先搜索) | 深度优先遍历(前序遍历) | KMP算法</td>
 	</tr>
     <tr >
 	    <td>17</td>
@@ -1192,7 +1192,7 @@
 	    <td>LC110. 平衡二叉树</td>
         <td><a href="/二叉树篇/0110. 平衡二叉树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我平衡么？</a> | 平衡二叉树 | 深度优先遍历(后序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我平衡么？</a> | <a href="https://leetcode-cn.com/problems/check-balance-lcci/">程序员面试金典04.04</a> | 平衡二叉树 | 深度优先遍历(后序遍历)</td>
 	</tr>
     <tr >
 	    <td>20</td>
@@ -1283,7 +1283,7 @@
 	    <td>LC98 验证二叉搜索树</td>
         <td><a href="/二叉树篇/0098. 验证二叉搜索树.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">二叉树：我是不是一棵二叉搜索树</a> | 二叉搜索树 | 深度优先遍历(前序遍历) | 深度优先遍历(中序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">二叉树：我是不是一棵二叉搜索树</a> | <a href="https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/">程序员面试金典04.05</a> | 二叉搜索树 | 深度优先遍历(前序遍历) | 深度优先遍历(中序遍历)</td>
 	</tr>
     <tr >
 	    <td>33</td>
@@ -1304,7 +1304,7 @@
 	    <td>LC236 二叉树的最近公共祖先</td>
         <td><a href="/二叉树篇/0236. 二叉树的最近公共祖先.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/first-common-ancestor-lcci/">程序员面试金典04.08</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑</td>
 	</tr>
     <tr >
 	    <td>36</td>
@@ -1354,6 +1354,13 @@
         <td><a href="/二叉树篇/04.03. 特定深度节点链表.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
+	</tr>
+    <tr >
+	    <td>43</td>
+	    <td>04.06. 后继者</td>
+        <td><a href="/二叉树篇/04.06. 后继者.md">Note</a></td>
+        <td>Medium</td>
+    	<td>程序员面试金典 | 深度优先遍历(中序遍历)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="45" valign="middle" >二叉树</td>
+	    <td rowspan="46" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1368,6 +1368,13 @@
         <td><a href="/二叉树篇/04.12. 求和路径.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 深度优先遍历(前序遍历) | 前缀和 | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>45</td>
+	    <td>17.12. BiNode</td>
+        <td><a href="/二叉树篇/17.12. BiNode.md">Note</a></td>
+        <td>Easy</td>
+    	<td>程序员面试金典 | 二叉搜索树 | 深度优先遍历(中序遍历)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

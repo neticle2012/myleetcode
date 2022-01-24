@@ -1241,7 +1241,7 @@
 	    <td>LC113 路径总和 II</td>
         <td><a href="/二叉树篇/0113. 路径总和 II.md">Note</a></td>
         <td>Medium</td>
-    	<td>深度优先遍历(前序遍历)</td>
+    	<td>深度优先遍历(前序遍历) | 回溯</td>
 	</tr>
     <tr >
 	    <td>27</td>
@@ -1304,7 +1304,7 @@
 	    <td>LC236 二叉树的最近公共祖先</td>
         <td><a href="/二叉树篇/0236. 二叉树的最近公共祖先.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/first-common-ancestor-lcci/">程序员面试金典04.08</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/first-common-ancestor-lcci/">程序员面试金典04.08</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑 | 回溯</td>
 	</tr>
     <tr >
 	    <td>36</td>
@@ -1367,7 +1367,7 @@
 	    <td>04.12. 求和路径</td>
         <td><a href="/二叉树篇/04.12. 求和路径.md">Note</a></td>
         <td>Medium</td>
-    	<td>程序员面试金典 | 深度优先遍历(前序遍历) | 前缀和 | 哈希表</td>
+    	<td>程序员面试金典 | 深度优先遍历(前序遍历) | 前缀和 | 哈希表 | 回溯</td>
 	</tr>
     <tr >
 	    <td>45</td>
@@ -1375,6 +1375,14 @@
         <td><a href="/二叉树篇/17.12. BiNode.md">Note</a></td>
         <td>Easy</td>
     	<td>程序员面试金典 | 二叉搜索树 | 深度优先遍历(中序遍历)</td>
+	</tr>
+    <tr >
+	    <td rowspan="1" valign="middle" >回溯算法</td>
+	    <td>0</td>
+	    <td>LC77 组合</td>
+        <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88.md">回溯算法：组合问题</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88%E4%BC%98%E5%8C%96.md">回溯算法：组合问题再剪剪枝</a> | 回溯三部曲</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

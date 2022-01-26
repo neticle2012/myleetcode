@@ -1384,7 +1384,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0129.%E6%B1%82%E6%A0%B9%E5%88%B0%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md">129.求根到叶子节点数字之和</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 回溯</td>
 	</tr>
     <tr >
-	    <td rowspan="3" valign="middle" >回溯算法</td>
+	    <td rowspan="4" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1404,6 +1404,13 @@
         <td><a href="/回溯算法篇/0017. 电话号码的字母组合.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.md">回溯算法：电话号码的字母组合</a></td>
+	</tr>
+    <tr >
+	    <td>3</td>
+	    <td>LC39 组合总和</td>
+        <td><a href="/回溯算法篇/0039. 组合总和.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md">回溯算法：求组合总和（二）</a> | 在组合问题中什么时候需要参数来控制for循环起始位置</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

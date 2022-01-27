@@ -1384,7 +1384,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0129.%E6%B1%82%E6%A0%B9%E5%88%B0%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md">129.求根到叶子节点数字之和</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 回溯</td>
 	</tr>
     <tr >
-	    <td rowspan="6" valign="middle" >回溯算法</td>
+	    <td rowspan="7" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1425,6 +1425,13 @@
         <td><a href="/回溯算法篇/0131. 分割回文串.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.md">回溯算法：分割回文串</a> | TODO:学完动态规划再做一遍</td>
+	</tr>
+    <tr >
+	    <td>6</td>
+	    <td>LC93 复原 IP 地址</td>
+        <td><a href="/回溯算法篇/0093. 复原 IP 地址.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md">回溯算法：复原IP地址</a> | 正则表达式</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

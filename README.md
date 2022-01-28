@@ -1384,7 +1384,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0129.%E6%B1%82%E6%A0%B9%E5%88%B0%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md">129.求根到叶子节点数字之和</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 回溯</td>
 	</tr>
     <tr >
-	    <td rowspan="7" valign="middle" >回溯算法</td>
+	    <td rowspan="8" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1432,6 +1432,13 @@
         <td><a href="/回溯算法篇/0093. 复原 IP 地址.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md">回溯算法：复原IP地址</a> | 正则表达式</td>
+	</tr>
+    <tr >
+	    <td>7</td>
+	    <td>LC78 子集</td>
+        <td><a href="/回溯算法篇/0078. 子集.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0078.%E5%AD%90%E9%9B%86.md">回溯算法：求子集问题！</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1384,7 +1384,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0129.%E6%B1%82%E6%A0%B9%E5%88%B0%E5%8F%B6%E5%AD%90%E8%8A%82%E7%82%B9%E6%95%B0%E5%AD%97%E4%B9%8B%E5%92%8C.md">129.求根到叶子节点数字之和</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 回溯</td>
 	</tr>
     <tr >
-	    <td rowspan="11" valign="middle" >回溯算法</td>
+	    <td rowspan="12" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1417,7 +1417,7 @@
 	    <td>LC40 组合总和 II</td>
         <td><a href="/回溯算法篇/0040. 组合总和 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.md">回溯算法：求组合总和（三）</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.md">回溯算法：求组合总和（三）</a> | 树层去重和树枝去重</td>
 	</tr>
     <tr >
 	    <td>5</td>
@@ -1445,14 +1445,14 @@
 	    <td>LC90 子集 II</td>
         <td><a href="/回溯算法篇/0090. 子集 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0090.%E5%AD%90%E9%9B%86II.md">回溯算法：求子集问题（二）</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0090.%E5%AD%90%E9%9B%86II.md">回溯算法：求子集问题（二）</a> | 树层去重</td>
 	</tr>
     <tr >
 	    <td>9</td>
 	    <td>LC491 递增子序列</td>
         <td><a href="/回溯算法篇/0491. 递增子序列.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md">回溯算法：递增子序列</a> | 哈希表</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.md">回溯算法：递增子序列</a> | 哈希表 | 树层去重</td>
 	</tr>
     <tr >
 	    <td>10</td>
@@ -1460,6 +1460,13 @@
         <td><a href="/回溯算法篇/0046. 全排列.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0046.%E5%85%A8%E6%8E%92%E5%88%97.md">回溯算法：排列问题！</a> | 哈希表</td>
+	</tr>
+    <tr >
+	    <td>11</td>
+	    <td>LC47. 全排列 II</td>
+        <td><a href="/回溯算法篇/0047. 全排列 II.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0047.%E5%85%A8%E6%8E%92%E5%88%97II.md">回溯算法：排列问题（二）</a> | 树层去重</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

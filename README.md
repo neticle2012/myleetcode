@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="48" valign="middle" >二叉树</td>
+	    <td rowspan="49" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1080,7 +1080,7 @@
         <td><a href="/二叉树篇/0102. 二叉树的层序遍历.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.md">二叉树：层序遍历登场！</a> | <a href="https://leetcode-cn.com/problems/binary-tree-level-order-traversal/solution/die-dai-di-gui-duo-tu-yan-shi-102er-cha-shu-de-cen/">
-迭代+递归 多图演示 102.二叉树的层次遍历</a> | 队列 | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
+迭代+递归 多图演示 102.二叉树的层次遍历</a> | <a href="https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/">剑指Offer32-I</a> | <a href="https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/">剑指Offer32-II</a> | 队列 | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>4</td>
@@ -1136,7 +1136,7 @@
 	    <td>LC104 二叉树的最大深度</td>
         <td><a href="/二叉树篇/0104. 二叉树的最大深度.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md">二叉树：看看这些树的最大深度</a> | 广度优先遍历(层序遍历) | 深度优先遍历(后序遍历) | 深度优先遍历(前序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md">二叉树：看看这些树的最大深度</a> | <a href="https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/">剑指Offer55-I</a> | 广度优先遍历(层序遍历) | 深度优先遍历(后序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>12</td>
@@ -1150,14 +1150,14 @@
 	    <td>LC226 翻转二叉树</td>
         <td><a href="/二叉树篇/0226. 翻转二叉树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：你真的会翻转二叉树么？</a> | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：你真的会翻转二叉树么？</a> | <a href="https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/">剑指Offer27</a> | 广度优先遍历(层序遍历) | 深度优先遍历(前序遍历)</td>
 	</tr>
     <tr >
 	    <td>14</td>
 	    <td>LC101 对称二叉树</td>
         <td><a href="/二叉树篇/0101. 对称二叉树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我对称么？</a> | 递归(深度优先搜索) | 队列(广度优先搜索) | 递归三部曲</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我对称么？</a> | <a href="https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/">剑指Offer28</a> | 递归(深度优先搜索) | 队列(广度优先搜索) | 递归三部曲</td>
 	</tr>
     <tr >
 	    <td>15</td>
@@ -1171,7 +1171,7 @@
 	    <td>LC572 另一棵树的子树</td>
         <td><a href="/二叉树篇/0572. 另一棵树的子树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://leetcode-cn.com/problems/check-subtree-lcci/">程序员面试金典04.10</a> | 递归(深度优先搜索) | 深度优先遍历(前序遍历) | KMP算法</td>
+    	<td><a href="https://leetcode-cn.com/problems/check-subtree-lcci/">程序员面试金典04.10</a> | <a href="https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/">剑指Offer26</a> | 递归(深度优先搜索) | 深度优先遍历(前序遍历) | KMP算法</td>
 	</tr>
     <tr >
 	    <td>17</td>
@@ -1192,7 +1192,7 @@
 	    <td>LC110. 平衡二叉树</td>
         <td><a href="/二叉树篇/0110. 平衡二叉树.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我平衡么？</a> | <a href="https://leetcode-cn.com/problems/check-balance-lcci/">程序员面试金典04.04</a> | 平衡二叉树 | 深度优先遍历(后序遍历)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0110.%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91.md">二叉树：我平衡么？</a> | <a href="https://leetcode-cn.com/problems/check-balance-lcci/">程序员面试金典04.04</a> | <a href="https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/">剑指Offer55-II</a> | 平衡二叉树 | 深度优先遍历(后序遍历)</td>
 	</tr>
     <tr >
 	    <td>20</td>
@@ -1241,7 +1241,7 @@
 	    <td>LC113 路径总和 II</td>
         <td><a href="/二叉树篇/0113. 路径总和 II.md">Note</a></td>
         <td>Medium</td>
-    	<td>深度优先遍历(前序遍历) | 回溯</td>
+    	<td><a href="https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/">剑指Offer34</a> | 深度优先遍历(前序遍历) | 回溯</td>
 	</tr>
     <tr >
 	    <td>27</td>
@@ -1255,7 +1255,7 @@
 	    <td>LC105 从前序与中序遍历序列构造二叉树</td>
         <td><a href="/二叉树篇/0105. 从前序与中序遍历序列构造二叉树.md">Note</a></td>
         <td>Medium</td>
-    	<td>分治法 | 哈希表</td>
+    	<td>分治法 | 哈希表 | <a href="https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/">剑指Offer07</a></td>
 	</tr>
     <tr >
 	    <td>29</td>
@@ -1304,14 +1304,14 @@
 	    <td>LC236 二叉树的最近公共祖先</td>
         <td><a href="/二叉树篇/0236. 二叉树的最近公共祖先.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/first-common-ancestor-lcci/">程序员面试金典04.08</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑 | 回溯</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/first-common-ancestor-lcci/">程序员面试金典04.08</a> | <a href="https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/">剑指Offer68-II</a> | 深度优先遍历(前序遍历) | 深度优先遍历(后序遍历) | 递归方法有返回值时搜索一条边和搜索整棵树的逻辑 | 回溯</td>
 	</tr>
     <tr >
 	    <td>36</td>
 	    <td>LC235 二叉搜索树的最近公共祖先</td>
         <td><a href="/二叉树篇/0235. 二叉搜索树的最近公共祖先.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：搜索树的公共祖先问题</a> | 二叉搜索树</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0235.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.md">二叉树：搜索树的公共祖先问题</a> | <a href="https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/">剑指Offer68-I</a> | 二叉搜索树</td>
 	</tr>
     <tr >
 	    <td>37</td>
@@ -1374,7 +1374,7 @@
 	    <td>17.12. BiNode</td>
         <td><a href="/二叉树篇/17.12. BiNode.md">Note</a></td>
         <td>Easy</td>
-    	<td>程序员面试金典 | 二叉搜索树 | 深度优先遍历(中序遍历)</td>
+    	<td>程序员面试金典 | 二叉搜索树 | 深度优先遍历(中序遍历) | 链表</td>
 	</tr>
     <tr >
 	    <td>46</td>
@@ -1389,6 +1389,13 @@
         <td><a href="/二叉树篇/1382. 将二叉搜索树变平衡.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1382.%E5%B0%86%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E5%8F%98%E5%B9%B3%E8%A1%A1.md">1382.将二叉搜索树变平衡</a> | 深度优先遍历(中序遍历) | 二叉搜索树 | 分治法</td>
+	</tr>
+    <tr >
+	    <td>48</td>
+	    <td>36. 二叉搜索树与双向链表</td>
+        <td><a href="/二叉树篇/36. 二叉搜索树与双向链表.md">Note</a></td>
+        <td>Medium</td>
+    	<td>剑指offer | 二叉搜索树 | 深度优先遍历(中序遍历) | 链表</td>
 	</tr>
     <tr >
 	    <td rowspan="12" valign="middle" >回溯算法</td>

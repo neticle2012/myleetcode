@@ -1053,7 +1053,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xx4gT2/">剑指OfferII 076</a> | 堆(优先级队列) | 基于快速排序的数组划分</td>
 	</tr>
     <tr >
-	    <td rowspan="49" valign="middle" >二叉树</td>
+	    <td rowspan="50" valign="middle" >二叉树</td>
 	    <td>0</td>
 	    <td>LC144 二叉树的前序遍历</td>
         <td><a href="/二叉树篇/0144. 二叉树的前序遍历.md">Note</a></td>
@@ -1396,6 +1396,13 @@
         <td><a href="/二叉树篇/36. 二叉搜索树与双向链表.md">Note</a></td>
         <td>Medium</td>
     	<td>剑指offer | 二叉搜索树 | 深度优先遍历(中序遍历) | 链表</td>
+	</tr>
+    <tr >
+	    <td>49</td>
+	    <td>LC297 二叉树的序列化与反序列化</td>
+        <td><a href="/二叉树篇/0297. 二叉树的序列化与反序列化.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
 	    <td rowspan="12" valign="middle" >回溯算法</td>

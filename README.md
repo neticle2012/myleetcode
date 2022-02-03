@@ -1405,7 +1405,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
-	    <td rowspan="12" valign="middle" >回溯算法</td>
+	    <td rowspan="13" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1484,10 +1484,17 @@
 	</tr>
     <tr >
 	    <td>11</td>
-	    <td>LC47. 全排列 II</td>
+	    <td>LC47 全排列 II</td>
         <td><a href="/回溯算法篇/0047. 全排列 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0047.%E5%85%A8%E6%8E%92%E5%88%97II.md">回溯算法：排列问题（二）</a> | 树层去重</td>
+	</tr>
+    <tr >
+	    <td>12</td>
+	    <td>LC332 重新安排行程</td>
+        <td><a href="/回溯算法篇/0332. 重新安排行程.md">Note</a></td>
+        <td>Hard</td>
+        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0332.%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E8%A1%8C%E7%A8%8B.md">回溯算法：重新安排行程</a> | 图论 | 深度优先遍历 | 哈希表 | <code>TreeSet/TreeMap</code></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

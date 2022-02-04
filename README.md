@@ -1405,7 +1405,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
-	    <td rowspan="13" valign="middle" >回溯算法</td>
+	    <td rowspan="14" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1495,6 +1495,13 @@
         <td><a href="/回溯算法篇/0332. 重新安排行程.md">Note</a></td>
         <td>Hard</td>
         <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0332.%E9%87%8D%E6%96%B0%E5%AE%89%E6%8E%92%E8%A1%8C%E7%A8%8B.md">回溯算法：重新安排行程</a> | 图论 | 深度优先遍历 | 哈希表 | <code>TreeSet/TreeMap</code></td>
+	</tr>
+    <tr >
+	    <td>13</td>
+	    <td>LC51 N 皇后</td>
+        <td><a href="/回溯算法篇/0051. N 皇后.md">Note</a></td>
+        <td>Hard</td>
+        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0051.N%E7%9A%87%E5%90%8E.md">回溯算法：N皇后问题</a> | 哈希表</code></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

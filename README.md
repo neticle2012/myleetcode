@@ -1405,7 +1405,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
-	    <td rowspan="15" valign="middle" >回溯算法</td>
+	    <td rowspan="16" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1459,7 +1459,7 @@
 	    <td>LC78 子集</td>
         <td><a href="/回溯算法篇/0078. 子集.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0078.%E5%AD%90%E9%9B%86.md">回溯算法：求子集问题！</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0078.%E5%AD%90%E9%9B%86.md">回溯算法：求子集问题！</a> | <a href="https://leetcode-cn.com/problems/power-set-lcci/">程序员面试金典08.04</a></td>
 	</tr>
     <tr >
 	    <td>8</td>
@@ -1508,7 +1508,14 @@
 	    <td>LC37 解数独</td>
         <td><a href="/回溯算法篇/0037. 解数独.md">Note</a></td>
         <td>Hard</td>
-        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0037.%E8%A7%A3%E6%95%B0%E7%8B%AC.md">回溯算法：解数独</a> | 哈希表 | 位运算</code></td>
+        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0037.%E8%A7%A3%E6%95%B0%E7%8B%AC.md">回溯算法：解数独</a> | 哈希表 | 位运算</td>
+	</tr>
+	<tr >
+	    <td>15</td>
+	    <td>08.09. 括号</td>
+        <td><a href="/回溯算法篇/08.09. 括号.md">Note</a></td>
+        <td>Medium</td>
+        <td>程序员面试金典</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

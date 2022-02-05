@@ -1405,12 +1405,12 @@
     	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
-	    <td rowspan="16" valign="middle" >回溯算法</td>
+	    <td rowspan="17" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88.md">回溯算法：组合问题</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88%E4%BC%98%E5%8C%96.md">回溯算法：组合问题再剪剪枝</a> | 回溯三部曲</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88.md">回溯算法：组合问题</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0077.%E7%BB%84%E5%90%88%E4%BC%98%E5%8C%96.md">回溯算法：组合问题再剪剪枝</a> | <a href="https://leetcode-cn.com/problems/uUsW3B/">剑指OfferII 080</a> | 回溯三部曲</td>
 	</tr>
     <tr >
 	    <td>1</td>
@@ -1431,14 +1431,14 @@
 	    <td>LC39 组合总和</td>
         <td><a href="/回溯算法篇/0039. 组合总和.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md">回溯算法：求组合总和（二）</a> | 在组合问题中什么时候需要参数来控制for循环起始位置</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.md">回溯算法：求组合总和（二）</a> | <a href="https://leetcode-cn.com/problems/Ygoe9J/">剑指OfferII 081</a> | 在组合问题中什么时候需要参数来控制for循环起始位置</td>
 	</tr>
     <tr >
 	    <td>4</td>
 	    <td>LC40 组合总和 II</td>
         <td><a href="/回溯算法篇/0040. 组合总和 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.md">回溯算法：求组合总和（三）</a> | 树层去重和树枝去重</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.md">回溯算法：求组合总和（三）</a> | <a href="https://leetcode-cn.com/problems/4sjJUc/">剑指OfferII 082</a> | 树层去重和树枝去重</td>
 	</tr>
     <tr >
 	    <td>5</td>
@@ -1452,14 +1452,14 @@
 	    <td>LC93 复原 IP 地址</td>
         <td><a href="/回溯算法篇/0093. 复原 IP 地址.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md">回溯算法：复原IP地址</a> | 正则表达式</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.md">回溯算法：复原IP地址</a> | <a href="https://leetcode-cn.com/problems/0on3uN/">剑指OfferII 087</a> | 正则表达式</td>
 	</tr>
     <tr >
 	    <td>7</td>
 	    <td>LC78 子集</td>
         <td><a href="/回溯算法篇/0078. 子集.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0078.%E5%AD%90%E9%9B%86.md">回溯算法：求子集问题！</a> | <a href="https://leetcode-cn.com/problems/power-set-lcci/">程序员面试金典08.04</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0078.%E5%AD%90%E9%9B%86.md">回溯算法：求子集问题！</a> | <a href="https://leetcode-cn.com/problems/power-set-lcci/">程序员面试金典08.04</a> | <a href="https://leetcode-cn.com/problems/TVdhkn/">剑指OfferII 079</a></td>
 	</tr>
     <tr >
 	    <td>8</td>
@@ -1480,14 +1480,14 @@
 	    <td>LC46 全排列</td>
         <td><a href="/回溯算法篇/0046. 全排列.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0046.%E5%85%A8%E6%8E%92%E5%88%97.md">回溯算法：排列问题！</a> | 哈希表</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0046.%E5%85%A8%E6%8E%92%E5%88%97.md">回溯算法：排列问题！</a> | <a href="https://leetcode-cn.com/problems/permutation-i-lcci/">程序员面试金典08.07</a> | <a href="https://leetcode-cn.com/problems/VvJkup/">剑指OfferII 083</a> | 哈希表</td>
 	</tr>
     <tr >
 	    <td>11</td>
 	    <td>LC47 全排列 II</td>
         <td><a href="/回溯算法篇/0047. 全排列 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0047.%E5%85%A8%E6%8E%92%E5%88%97II.md">回溯算法：排列问题（二）</a> | 树层去重</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0047.%E5%85%A8%E6%8E%92%E5%88%97II.md">回溯算法：排列问题（二）</a> | <a href="https://leetcode-cn.com/problems/permutation-ii-lcci/">程序员面试金典08.08</a> | <a href="https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/">剑指Offer38</a> | <a href="https://leetcode-cn.com/problems/7p8L0Z/">剑指OfferII 084</a> | 树层去重</td>
 	</tr>
     <tr >
 	    <td>12</td>
@@ -1501,7 +1501,7 @@
 	    <td>LC51 N 皇后</td>
         <td><a href="/回溯算法篇/0051. N 皇后.md">Note</a></td>
         <td>Hard</td>
-        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0051.N%E7%9A%87%E5%90%8E.md">回溯算法：N皇后问题</a> | 哈希表</code></td>
+        <td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0051.N%E7%9A%87%E5%90%8E.md">回溯算法：N皇后问题</a> | <a href="https://leetcode-cn.com/problems/eight-queens-lcci/">程序员面试金典08.12</a> | 哈希表</code></td>
 	</tr>
 	<tr >
 	    <td>14</td>
@@ -1515,7 +1515,14 @@
 	    <td>08.09. 括号</td>
         <td><a href="/回溯算法篇/08.09. 括号.md">Note</a></td>
         <td>Medium</td>
-        <td>程序员面试金典</td>
+        <td>程序员面试金典 | <a href="https://leetcode-cn.com/problems/IDBivT/">剑指OfferII 085</a> | <a href="https://leetcode-cn.com/problems/generate-parentheses/">LC22</a></td>
+	</tr>
+	<tr >
+	    <td>16</td>
+	    <td>LC797 所有可能的路径</td>
+        <td><a href="/回溯算法篇/0797. 所有可能的路径.md">Note</a></td>
+        <td>Medium</td>
+        <td><a href="https://leetcode-cn.com/problems/bP4bmD/">剑指OfferII 110</a> | 图论 | 深度优先遍历 | 广度优先遍历</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

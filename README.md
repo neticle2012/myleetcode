@@ -1405,7 +1405,7 @@
     	<td><a href="https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/">剑指Offer37</a> | 深度优先遍历(前序遍历) | 广度优先遍历(层序遍历) | 队列</td>
 	</tr>
     <tr >
-	    <td rowspan="17" valign="middle" >回溯算法</td>
+	    <td rowspan="18" valign="middle" >回溯算法</td>
 	    <td>0</td>
 	    <td>LC77 组合</td>
         <td><a href="/回溯算法篇/0077. 组合.md">Note</a></td>
@@ -1523,6 +1523,13 @@
         <td><a href="/回溯算法篇/0797. 所有可能的路径.md">Note</a></td>
         <td>Medium</td>
         <td><a href="https://leetcode-cn.com/problems/bP4bmD/">剑指OfferII 110</a> | 图论 | 深度优先遍历 | 广度优先遍历</td>
+	</tr>
+	<tr >
+	    <td>17</td>
+	    <td>LC79 单词搜索</td>
+        <td><a href="/回溯算法篇/0079. 单词搜索.md">Note</a></td>
+        <td>Medium</td>
+        <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

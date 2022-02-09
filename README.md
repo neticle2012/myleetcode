@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="4" valign="middle" >贪心算法</td>
+	    <td rowspan="5" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1566,6 +1566,13 @@
         <td><a href="/贪心算法篇/0122. 买卖股票的最佳时机 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0122.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.md">贪心算法：买卖股票的最佳时机II</a> | TODO:学完动态规划再做一遍</td>
+	</tr>
+	<tr >
+	    <td>4</td>
+	    <td>LC55 跳跃游戏</td>
+        <td><a href="/贪心算法篇/0055. 跳跃游戏.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.md">贪心算法：跳跃游戏</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

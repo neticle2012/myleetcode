@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="8" valign="middle" >贪心算法</td>
+	    <td rowspan="9" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1594,6 +1594,13 @@
         <td><a href="/贪心算法篇/0134. 加油站.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md">贪心算法：加油站</a></td>
+	</tr>
+	<tr >
+	    <td>8</td>
+	    <td>LC135 分发糖果</td>
+        <td><a href="/贪心算法篇/0135. 分发糖果.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0135.%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.md">贪心算法：分发糖果</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

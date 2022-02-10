@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="7" valign="middle" >贪心算法</td>
+	    <td rowspan="8" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1587,6 +1587,13 @@
         <td><a href="/贪心算法篇/1005. K 次取反后最大化的数组和.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1005.K%E6%AC%A1%E5%8F%96%E5%8F%8D%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.md">贪心算法：K次取反后最大化的数组和</a> | 定制排序 | 计数排序</td>
+	</tr>
+	<tr >
+	    <td>7</td>
+	    <td>LC134 加油站</td>
+        <td><a href="/贪心算法篇/0134. 加油站.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0134.%E5%8A%A0%E6%B2%B9%E7%AB%99.md">贪心算法：加油站</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

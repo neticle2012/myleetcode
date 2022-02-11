@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="10" valign="middle" >贪心算法</td>
+	    <td rowspan="11" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1608,6 +1608,13 @@
         <td><a href="/贪心算法篇/0860. 柠檬水找零.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.md">贪心算法：柠檬水找零</a></td>
+	</tr>
+	<tr >
+	    <td>10</td>
+	    <td>LC406 根据身高重建队列</td>
+        <td><a href="/贪心算法篇/0406. 根据身高重建队列.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0406.%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.md">贪心算法：根据身高重建队列</a> | 定制排序 | 链表</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="13" valign="middle" >贪心算法</td>
+	    <td rowspan="14" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1629,6 +1629,13 @@
         <td><a href="/贪心算法篇/0435. 无重叠区间.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.md">贪心算法：无重叠区间</a> | 定制排序</td>
+	</tr>
+	<tr >
+	    <td>13</td>
+	    <td>LC763 划分字母区间</td>
+        <td><a href="/贪心算法篇/0763. 划分字母区间.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0763.%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.md">贪心算法：划分字母区间</a> | 哈希表</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="16" valign="middle" >贪心算法</td>
+	    <td rowspan="17" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1649,7 +1649,14 @@
 	    <td>LC714 买卖股票的最佳时机含手续费</td>
         <td><a href="/贪心算法篇/0714. 买卖股票的最佳时机含手续费.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0714.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E6%89%8B%E7%BB%AD%E8%B4%B9.md">贪心算法：买卖股票的最佳时机含手续费</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0714.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E6%89%8B%E7%BB%AD%E8%B4%B9.md">贪心算法：买卖股票的最佳时机含手续费</a> | TODO:学完动态规划再做一遍</td>
+	</tr>
+	<tr >
+	    <td>16</td>
+	    <td>LC968 监控二叉树</td>
+        <td><a href="/贪心算法篇/0968. 监控二叉树.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0968.%E7%9B%91%E6%8E%A7%E4%BA%8C%E5%8F%89%E6%A0%91.md">贪心算法：我要监控二叉树！</a> | 二叉树 | 深度优先遍历(后序遍历) | TODO:学完动态规划再做一遍</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1539,7 +1539,7 @@
         <td><a href="https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/">剑指Offer12</a> | 深度优先遍历 | 使用偏移量数组来表示四个方向</td>
 	</tr>
 	<tr >
-	    <td rowspan="21" valign="middle" >贪心算法</td>
+	    <td rowspan="22" valign="middle" >贪心算法</td>
 	    <td>0</td>
 	    <td>LC455 分发饼干</td>
         <td><a href="/贪心算法篇/0455. 分发饼干.md">Note</a></td>
@@ -1685,6 +1685,13 @@
         <td><a href="/贪心算法篇/45. 把数组排成最小的数.md">Note</a></td>
         <td>Medium</td>
     	<td>剑指offer | 定制排序</td>
+	</tr>
+	<tr >
+	    <td>21</td>
+	    <td>LC680 验证回文字符串 Ⅱ</td>
+        <td><a href="/贪心算法篇/0680. 验证回文字符串 Ⅱ.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1694,7 +1694,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="3" valign="middle" >动态规划</td>
+	    <td rowspan="4" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1714,6 +1714,13 @@
         <td><a href="/动态规划篇/0746. 使用最小花费爬楼梯.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：使用最小花费爬楼梯</a></td>
+	</tr>
+	<tr >
+	    <td>3</td>
+	    <td>LC62 不同路径</td>
+        <td><a href="/动态规划篇/0062. 不同路径.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md">动态规划：不同路径</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

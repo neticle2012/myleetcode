@@ -1694,7 +1694,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="6" valign="middle" >动态规划</td>
+	    <td rowspan="7" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1735,6 +1735,13 @@
         <td><a href="/动态规划篇/0343. 整数拆分.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0343.%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md">动态规划：整数拆分，你要怎么拆？</a></td>
+	</tr>
+	<tr >
+	    <td>6</td>
+	    <td>LC96 不同的二叉搜索树</td>
+        <td><a href="/动态规划篇/0096. 不同的二叉搜索树.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0096.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md">动态规划：不同的二叉搜索树</a> | 二叉搜索树</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

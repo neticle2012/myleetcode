@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="9" valign="middle" >动态规划</td>
+	    <td rowspan="10" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1763,6 +1763,13 @@
         <td><a href="/动态规划篇/1049. 最后一块石头的重量 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.md">动态规划：最后一块石头的重量 II</a> | 01背包问题</td>
+	</tr>
+	<tr >
+	    <td>9</td>
+	    <td>LC494 目标和</td>
+        <td><a href="/动态规划篇/0494. 目标和.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md">动态规划：目标和！</a> | 01背包问题</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

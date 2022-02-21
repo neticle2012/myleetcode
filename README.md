@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="8" valign="middle" >动态规划</td>
+	    <td rowspan="9" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1756,6 +1756,13 @@
         <td><a href="/动态规划篇/0416. 分割等和子集.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-1.md">动态规划：关于01背包问题，你该了解这些！</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-2.md">动态规划：关于01背包问题，你该了解这些！（滚动数组）</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md">动态规划：分割等和子集可以用01背包！</a> | 01背包问题 | 滚动数组优化</td>
+	</tr>
+	<tr >
+	    <td>8</td>
+	    <td>LC1049 最后一块石头的重量 II</td>
+        <td><a href="/动态规划篇/1049. 最后一块石头的重量 II.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.md">动态规划：最后一块石头的重量 II</a> | 01背包问题</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

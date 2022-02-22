@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="11" valign="middle" >动态规划</td>
+	    <td rowspan="12" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1755,28 +1755,35 @@
 	    <td>LC416 分割等和子集</td>
         <td><a href="/动态规划篇/0416. 分割等和子集.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-1.md">动态规划：关于01背包问题，你该了解这些！</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-2.md">动态规划：关于01背包问题，你该了解这些！（滚动数组）</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md">动态规划：分割等和子集可以用01背包！</a> | 01背包问题 | 滚动数组优化</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-1.md">动态规划：关于01背包问题，你该了解这些！</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%8001%E8%83%8C%E5%8C%85-2.md">动态规划：关于01背包问题，你该了解这些！（滚动数组）</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.md">动态规划：分割等和子集可以用01背包！</a> | 01背包问题(价值最大) | 滚动数组优化</td>
 	</tr>
 	<tr >
 	    <td>8</td>
 	    <td>LC1049 最后一块石头的重量 II</td>
         <td><a href="/动态规划篇/1049. 最后一块石头的重量 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.md">动态规划：最后一块石头的重量 II</a> | 01背包问题</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.md">动态规划：最后一块石头的重量 II</a> | 01背包问题(价值最大)</td>
 	</tr>
 	<tr >
 	    <td>9</td>
 	    <td>LC494 目标和</td>
         <td><a href="/动态规划篇/0494. 目标和.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md">动态规划：目标和！</a> | 01背包问题</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md">动态规划：目标和！</a> | 01背包问题(方法数)</td>
 	</tr>
 	<tr >
 	    <td>10</td>
 	    <td>LC474 一和零</td>
         <td><a href="/动态规划篇/0474. 一和零.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.md">动态规划：一和零！</a> | 01背包问题</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.md">动态规划：一和零！</a> | 01背包问题(价值最大)</td>
+	</tr>
+	<tr >
+	    <td>11</td>
+	    <td>LC518 零钱兑换 II</td>
+        <td><a href="/动态规划篇/0518. 零钱兑换 II.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.md">动态规划：关于完全背包，你该了解这些！</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2II.md">动态规划：给你一些零钱，你要怎么凑？</a> | 完全背包问题(组合数)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

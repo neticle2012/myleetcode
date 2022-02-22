@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="10" valign="middle" >动态规划</td>
+	    <td rowspan="11" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1770,6 +1770,13 @@
         <td><a href="/动态规划篇/0494. 目标和.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.md">动态规划：目标和！</a> | 01背包问题</td>
+	</tr>
+	<tr >
+	    <td>10</td>
+	    <td>LC474 一和零</td>
+        <td><a href="/动态规划篇/0474. 一和零.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.md">动态规划：一和零！</a> | 01背包问题</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

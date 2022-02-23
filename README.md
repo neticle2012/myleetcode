@@ -1713,7 +1713,7 @@
 	    <td>LC70 爬楼梯</td>
         <td><a href="/动态规划篇/0070. 爬楼梯.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：爬楼梯</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：爬楼梯</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E7%89%88%E6%9C%AC.md">动态规划：以前我没得选，现在我选择再爬一次！</a> | 完全背包问题(排列数)</td>
 	</tr>
 	<tr >
 	    <td>2</td>

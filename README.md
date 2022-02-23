@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="12" valign="middle" >动态规划</td>
+	    <td rowspan="13" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1784,6 +1784,13 @@
         <td><a href="/动态规划篇/0518. 零钱兑换 II.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.md">动态规划：关于完全背包，你该了解这些！</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2II.md">动态规划：给你一些零钱，你要怎么凑？</a> | 完全背包问题(组合数)</td>
+	</tr>
+	<tr >
+	    <td>12</td>
+	    <td>LC377 组合总和 Ⅳ</td>
+        <td><a href="/动态规划篇/0377. 组合总和 Ⅳ.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%E2%85%A3.md">动态规划：Carl称它为排列总和！</a> | 完全背包问题(排列数)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

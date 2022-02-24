@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="14" valign="middle" >动态规划</td>
+	    <td rowspan="15" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1798,6 +1798,13 @@
         <td><a href="/动态规划篇/0322. 零钱兑换.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md">动态规划： 给我个机会，我再兑换一次零钱</a> | 完全背包问题(价值最大)</td>
+	</tr>
+	<tr >
+	    <td>14</td>
+	    <td>LC279 完全平方数</td>
+        <td><a href="/动态规划篇/0279. 完全平方数.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md">动态规划：一样的套路，再求一次完全平方数</a> | 完全背包问题(价值最大)</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="19" valign="middle" >动态规划</td>
+	    <td rowspan="20" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1833,6 +1833,13 @@
         <td><a href="/动态规划篇/0337. 打家劫舍 III.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII.md">动态规划：还要打家劫舍！</a> | 哈希表 | 树形dp | 深度优先遍历(后序遍历)</td>
+	</tr>
+	<tr >
+	    <td>19</td>
+	    <td>LC121 买卖股票的最佳时机</td>
+        <td><a href="/动态规划篇/0121. 买卖股票的最佳时机.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md">动态规划：买卖股票的最佳时机</a> | 贪心算法</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

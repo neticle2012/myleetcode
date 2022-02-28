@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="23" valign="middle" >动态规划</td>
+	    <td rowspan="24" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1861,6 +1861,13 @@
         <td><a href="/动态规划篇/0309. 最佳买卖股票时机含冷冻期.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.md">动态规划：最佳买卖股票时机含冷冻期</a></td>
+	</tr>
+	<tr >
+	    <td>23</td>
+	    <td>LC300 最长递增子序列</td>
+        <td><a href="/动态规划篇/0300. 最长递增子序列.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0300.%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：最长递增子序列</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

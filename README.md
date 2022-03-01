@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="25" valign="middle" >动态规划</td>
+	    <td rowspan="26" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1875,6 +1875,13 @@
         <td><a href="/动态规划篇/0674. 最长连续递增序列.md">Note</a></td>
         <td>Easy</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0674.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.md">动态规划：最长连续递增序列</a> | 贪心算法</td>
+	</tr>
+	<tr >
+	    <td>25</td>
+	    <td>LC718 最长重复子数组</td>
+        <td><a href="/动态规划篇/0718. 最长重复子数组.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0718.%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.md">动态规划：最长重复子数组</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

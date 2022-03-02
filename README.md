@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="26" valign="middle" >动态规划</td>
+	    <td rowspan="27" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1882,6 +1882,13 @@
         <td><a href="/动态规划篇/0718. 最长重复子数组.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0718.%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.md">动态规划：最长重复子数组</a></td>
+	</tr>
+	<tr >
+	    <td>26</td>
+	    <td>LC1143 最长公共子序列</td>
+        <td><a href="/动态规划篇/1143. 最长公共子序列.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：最长公共子序列</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

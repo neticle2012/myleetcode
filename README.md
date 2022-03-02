@@ -1565,7 +1565,7 @@
 	    <td>LC53 最大子数组和</td>
         <td><a href="/贪心算法篇/0053. 最大子数组和.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md">贪心算法：最大子序和</a> | TODO:学完动态规划再做一遍</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md">贪心算法：最大子序和</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.md">动态规划：最大子序和</a> | 动态规划</td>
 	</tr>
 	<tr >
 	    <td>3</td>

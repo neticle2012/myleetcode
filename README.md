@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="28" valign="middle" >动态规划</td>
+	    <td rowspan="29" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1896,6 +1896,13 @@
         <td><a href="/动态规划篇/1035. 不相交的线.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1035.%E4%B8%8D%E7%9B%B8%E4%BA%A4%E7%9A%84%E7%BA%BF.md">动态规划：不相交的线</a></td>
+	</tr>
+	<tr >
+	    <td>28</td>
+	    <td>LC392 判断子序列</td>
+        <td><a href="/动态规划篇/0392. 判断子序列.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：判断子序列</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

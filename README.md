@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="31" valign="middle" >动态规划</td>
+	    <td rowspan="32" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1917,6 +1917,13 @@
         <td><a href="/动态规划篇/0583. 两个字符串的删除操作.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0583.%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.md">动态规划：两个字符串的删除操作</a></td>
+	</tr>
+	<tr >
+	    <td>31</td>
+	    <td>LC72 编辑距离</td>
+        <td><a href="/动态规划篇/0072. 编辑距离.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0072.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.md">动态规划：编辑距离</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

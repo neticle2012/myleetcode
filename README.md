@@ -1701,7 +1701,7 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="35" valign="middle" >动态规划</td>
+	    <td rowspan="36" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
@@ -1945,6 +1945,13 @@
         <td><a href="/动态规划篇/0005. 最长回文子串.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0005.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md">5.最长回文子串</a> | 双指针</td>
+	</tr>
+	<tr >
+	    <td>35</td>
+	    <td>LC132 分割回文串 II</td>
+        <td><a href="/动态规划篇/0132. 分割回文串 II.md">Note</a></td>
+        <td>Hard</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0132.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2II.md">132.分割回文串II</a></td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

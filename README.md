@@ -1565,7 +1565,7 @@
 	    <td>LC53 最大子数组和</td>
         <td><a href="/贪心算法篇/0053. 最大子数组和.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md">贪心算法：最大子序和</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.md">动态规划：最大子序和</a> | 动态规划</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.md">贪心算法：最大子序和</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.md">动态规划：最大子序和</a> | <a href="https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/">剑指Offer42</a> | 动态规划</td>
 	</tr>
 	<tr >
 	    <td>3</td>
@@ -1701,33 +1701,33 @@
     	<td><a href="https://leetcode-cn.com/problems/RQku0D/">剑指OfferII 019</a> | 双指针 | 递归</td>
 	</tr>
 	<tr >
-	    <td rowspan="34" valign="middle" >动态规划</td>
+	    <td rowspan="35" valign="middle" >动态规划</td>
 	    <td>0</td>
 	    <td>LC509 斐波那契数</td>
         <td><a href="/动态规划篇/0509. 斐波那契数.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md">动态规划：斐波那契数</a> | 递归 | 动态规划五部曲</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.md">动态规划：斐波那契数</a> | <a href="https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/">剑指Offer10-I</a> | 递归 | 动态规划五部曲</td>
 	</tr>
 	<tr >
 	    <td>1</td>
 	    <td>LC70 爬楼梯</td>
         <td><a href="/动态规划篇/0070. 爬楼梯.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：爬楼梯</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E7%89%88%E6%9C%AC.md">动态规划：以前我没得选，现在我选择再爬一次！</a> | 完全背包问题(排列数)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：爬楼梯</a> | <a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E7%89%88%E6%9C%AC.md">动态规划：以前我没得选，现在我选择再爬一次！</a> | <a href="https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/">剑指Offer10-II</a> | 完全背包问题(排列数)</td>
 	</tr>
 	<tr >
 	    <td>2</td>
 	    <td>LC746 使用最小花费爬楼梯</td>
         <td><a href="/动态规划篇/0746. 使用最小花费爬楼梯.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：使用最小花费爬楼梯</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.md">动态规划：使用最小花费爬楼梯</a> | <a href="https://leetcode-cn.com/problems/GzCJIP/">剑指OfferII 088</a></td>
 	</tr>
 	<tr >
 	    <td>3</td>
 	    <td>LC62 不同路径</td>
         <td><a href="/动态规划篇/0062. 不同路径.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md">动态规划：不同路径</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.md">动态规划：不同路径</a> | <a href="https://leetcode-cn.com/problems/2AoeFn/">剑指OfferII 098</a></td>
 	</tr>
 	<tr >
 	    <td>4</td>
@@ -1790,14 +1790,14 @@
 	    <td>LC377 组合总和 Ⅳ</td>
         <td><a href="/动态规划篇/0377. 组合总和 Ⅳ.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%E2%85%A3.md">动态规划：Carl称它为排列总和！</a> | 完全背包问题(排列数)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%E2%85%A3.md">动态规划：Carl称它为排列总和！</a> | <a href="https://leetcode-cn.com/problems/D0F0SV/">剑指OfferII 104</a> | 完全背包问题(排列数)</td>
 	</tr>
 	<tr >
 	    <td>13</td>
 	    <td>LC322 零钱兑换</td>
         <td><a href="/动态规划篇/0322. 零钱兑换.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md">动态规划： 给我个机会，我再兑换一次零钱</a> | 完全背包问题(价值最大)</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.md">动态规划： 给我个机会，我再兑换一次零钱</a> | <a href="https://leetcode-cn.com/problems/gaM7Ch/">剑指OfferII 103</a> | 完全背包问题(价值最大)</td>
 	</tr>
 	<tr >
 	    <td>14</td>
@@ -1818,14 +1818,14 @@
 	    <td>LC198 打家劫舍</td>
         <td><a href="/动态规划篇/0198. 打家劫舍.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md">动态规划：开始打家劫舍！</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md">动态规划：开始打家劫舍！</a> | <a href="https://leetcode-cn.com/problems/Gu0c2T/">剑指OfferII 089</a></td>
 	</tr>
 	<tr >
 	    <td>17</td>
 	    <td>LC213 打家劫舍 II</td>
         <td><a href="/动态规划篇/0213. 打家劫舍 II.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DII.md">动态规划：继续打家劫舍！</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DII.md">动态规划：继续打家劫舍！</a> | <a href="https://leetcode-cn.com/problems/PzWKhm/">剑指OfferII 090</a></td>
 	</tr>
 	<tr >
 	    <td>18</td>
@@ -1839,7 +1839,7 @@
 	    <td>LC121 买卖股票的最佳时机</td>
         <td><a href="/动态规划篇/0121. 买卖股票的最佳时机.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md">动态规划：买卖股票的最佳时机</a> | 贪心算法</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md">动态规划：买卖股票的最佳时机</a> | <a href="https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/">剑指Offer63</a> | 贪心算法</td>
 	</tr>
 	<tr >
 	    <td>20</td>
@@ -1888,7 +1888,7 @@
 	    <td>LC1143 最长公共子序列</td>
         <td><a href="/动态规划篇/1143. 最长公共子序列.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：最长公共子序列</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：最长公共子序列</a> | <a href="https://leetcode-cn.com/problems/qJnOS7/">剑指OfferII 095</a></td>
 	</tr>
 	<tr >
 	    <td>27</td>
@@ -1909,7 +1909,7 @@
 	    <td>LC115 不同的子序列</td>
         <td><a href="/动态规划篇/0115. 不同的子序列.md">Note</a></td>
         <td>Hard</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0115.%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：不同的子序列</a></td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0115.%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：不同的子序列</a> | <a href="https://leetcode-cn.com/problems/21dk04/">剑指OfferII 097</a></td>
 	</tr>
 	<tr >
 	    <td>30</td>
@@ -1930,7 +1930,7 @@
 	    <td>LC647 回文子串</td>
         <td><a href="/动态规划篇/0647. 回文子串.md">Note</a></td>
         <td>Medium</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md">动态规划：回文子串</a> | 双指针</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md">动态规划：回文子串</a> | <a href="https://leetcode-cn.com/problems/a7VOhD/">剑指OfferII 020</a> | 双指针</td>
 	</tr>
 	<tr >
 	    <td>33</td>
@@ -1938,6 +1938,13 @@
         <td><a href="/动态规划篇/0516. 最长回文子序列.md">Note</a></td>
         <td>Medium</td>
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.md">动态规划：最长回文子序列</a></td>
+	</tr>
+	<tr >
+	    <td>34</td>
+	    <td>LC5 最长回文子串</td>
+        <td><a href="/动态规划篇/0005. 最长回文子串.md">Note</a></td>
+        <td>Medium</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0005.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md">5.最长回文子串</a> | 双指针</td>
 	</tr>
     <tr >
 	    <td rowspan="20" valign="middle" >其他</td>

@@ -1961,7 +1961,7 @@
     	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/0673.%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97%E7%9A%84%E4%B8%AA%E6%95%B0.md">673.最长递增子序列的个数</a> | TODO:学完树状数组再做一遍</td>
 	</tr>
     <tr >
-	    <td rowspan="20" valign="middle" >其他</td>
+	    <td rowspan="21" valign="middle" >其他</td>
 	    <td>0</td>
 	    <td>LC69 Sqrt(x)</td>
         <td><a href="/其他/0069. Sqrt(x).md">Note</a></td>
@@ -2100,6 +2100,13 @@
         <td><a href="/其他/05.04. 下一个数.md">Note</a></td>
         <td>Medium</td>
     	<td>程序员面试金典 | 位运算</td>
+	</tr>
+	<tr >
+	    <td>20</td>
+	    <td>LC1356 根据数字二进制下 1 的数目排序</td>
+        <td><a href="/其他/1356. 根据数字二进制下 1 的数目排序.md">Note</a></td>
+        <td>Easy</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1356.%E6%A0%B9%E6%8D%AE%E6%95%B0%E5%AD%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%8B1%E7%9A%84%E6%95%B0%E7%9B%AE%E6%8E%92%E5%BA%8F.md">1356.根据数字二进制下1的数目排序</a> | 位运算</td>
 	</tr>
 </table>
 

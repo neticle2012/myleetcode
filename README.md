@@ -2106,7 +2106,7 @@
 	    <td>LC1356 根据数字二进制下 1 的数目排序</td>
         <td><a href="/其他/1356. 根据数字二进制下 1 的数目排序.md">Note</a></td>
         <td>Easy</td>
-    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1356.%E6%A0%B9%E6%8D%AE%E6%95%B0%E5%AD%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%8B1%E7%9A%84%E6%95%B0%E7%9B%AE%E6%8E%92%E5%BA%8F.md">1356.根据数字二进制下1的数目排序</a> | 位运算</td>
+    	<td><a href="https://github.com/youngyangyang04/leetcode-master/blob/master/problems/1356.%E6%A0%B9%E6%8D%AE%E6%95%B0%E5%AD%97%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%8B1%E7%9A%84%E6%95%B0%E7%9B%AE%E6%8E%92%E5%BA%8F.md">1356.根据数字二进制下1的数目排序</a> | 定制排序 | 位运算</td>
 	</tr>
 </table>
 
